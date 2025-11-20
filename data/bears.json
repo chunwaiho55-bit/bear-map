@@ -1,0 +1,92 @@
+[
+    {
+        "location": "日本 - 長野縣 (Nagano) 山區 #1",
+        "time": "2025-11-20 05:37:52",
+        "geo": {
+            "lat": 35.64153339797435,
+            "long": 138.2838784616426
+        },
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ursus_thibetanus_3_%28Wroclaw_zoo%29.JPG/640px-Ursus_thibetanus_3_%28Wroclaw_zoo%29.JPG"
+    },
+    {
+        "location": "日本 - 北海道 (Hokkaido) 山區 #2",
+        "time": "2025-11-20 05:37:52",
+        "geo": {
+            "lat": 43.41936010352087,
+            "long": 143.74600543022996
+        },
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ursus_thibetanus_3_%28Wroclaw_zoo%29.JPG/640px-Ursus_thibetanus_3_%28Wroclaw_zoo%29.JPG"
+    },
+    {
+        "location": "日本 - 長野縣 (Nagano) 山區 #3",
+        "time": "2025-11-20 05:37:52",
+        "geo": {
+            "lat": 36.0174195624085,
+            "long": 137.58751248179408
+        },
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ursus_thibetanus_3_%28Wroclaw_zoo%29.JPG/640px-Ursus_thibetanus_3_%28Wroclaw_zoo%29.JPG"
+    },
+    {
+        "location": "日本 - 長野縣 (Nagano) 山區 #4",
+        "time": "2025-11-20 05:37:52",
+        "geo": {
+            "lat": 36.48420314683867,
+            "long": 138.37866421291437
+        },
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ursus_thibetanus_3_%28Wroclaw_zoo%29.JPG/640px-Ursus_thibetanus_3_%28Wroclaw_zoo%29.JPG"
+    },
+    {
+        "location": "日本 - 長野縣 (Nagano) 山區 #5",
+        "time": "2025-11-20 05:37:52",
+        "geo": {
+            "lat": 35.551573077073236,
+            "long": 138.01771609763776
+        },
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ursus_thibetanus_3_%28Wroclaw_zoo%29.JPG/640px-Ursus_thibetanus_3_%28Wroclaw_zoo%29.JPG"
+    },
+    {
+        "location": "日本 - 北海道 (Hokkaido) 山區 #6",
+        "time": "2025-11-20 05:37:52",
+        "geo": {
+            "lat": 43.581061135571304,
+            "long": 142.65546383339475
+        },
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ursus_thibetanus_3_%28Wroclaw_zoo%29.JPG/640px-Ursus_thibetanus_3_%28Wroclaw_zoo%29.JPG"
+    },
+    {
+        "location": "日本 - 長野縣 (Nagano) 山區 #7",
+        "time": "2025-11-20 05:37:52",
+        "geo": {
+            "lat": 36.25210063924274,
+            "long": 138.26143152293855
+        },
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ursus_thibetanus_3_%28Wroclaw_zoo%29.JPG/640px-Ursus_thibetanus_3_%28Wroclaw_zoo%29.JPG"
+    },
+    {
+        "location": "日本 - 北海道 (Hokkaido) 山區 #8",
+        "time": "2025-11-20 05:37:52",
+        "geo": {
+            "lat": 43.457804754726894,
+            "long": 143.72318557173725
+        },
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ursus_thibetanus_3_%28Wroclaw_zoo%29.JPG/640px-Ursus_thibetanus_3_%28Wroclaw_zoo%29.JPG"
+    },
+    {
+        "location": "日本 - 秋田縣 (Akita) 山區 #9",
+        "time": "2025-11-20 05:37:52",
+        "geo": {
+            "lat": 39.713422390219726,
+            "long": 140.1759960823183
+        },
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ursus_thibetanus_3_%28Wroclaw_zoo%29.JPG/640px-Ursus_thibetanus_3_%28Wroclaw_zoo%29.JPG"
+    },
+    {
+        "location": "日本 - 北海道 (Hokkaido) 山區 #10",
+        "time": "2025-11-20 05:37:52",
+        "geo": {
+            "lat": 43.63695566926145,
+            "long": 142.0293309774833
+        },
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ursus_thibetanus_3_%28Wroclaw_zoo%29.JPG/640px-Ursus_thibetanus_3_%28Wroclaw_zoo%29.JPG"
+    }
+]
