@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>台灣黑熊出沒地圖 (即時更新)</title>
+    
+    <!-- 引入 Leaflet 地圖套件的 CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    
+    <style>
+        body { margin: 0; padding: 0; }
+        #map { height: 100vh; width: 100%; } /* 地圖佔滿全螢幕 */
+        
+        /* 資訊框樣式 */
+        .info-box {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            z-index: 1000;
+            background: white;
+            padding: 10px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.2);
+            font-family: sans-serif;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- 顯示最後更新時間的小框框 -->
+    <div class="info-box">
+        <h3>🐻 黑熊地圖</h3>
+        <p>資料來源：自動爬蟲</p>
+        <p id="status">載入中...</p>
+    </div>
+
+    <!-- 地圖容器 -->
+    <div id="map"></div>
+
+    <!-- 引入 Leaflet 地圖套件的 JS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+    <script>
+        // 1. 初始化地圖，中心點設在台灣，縮放層級 8
+        const map = L.map('map').setView([23.6978, 120.9605], 8);
+
+        // 2. 加入 OpenStreetMap 圖資
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+        }).addTo(map);
+
+        // 3. 這是最關鍵的一步：去抓取 data/bears.json 檔案
+        // 注意：這裡的路徑必須對應到你爬蟲存檔的路徑
+        fetch('./data/bears.json')
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error("找不到資料檔 (可能是爬蟲還沒跑完)");
+                }
+                return response.json();
+            })
+            .then(data => {
+                // 更新狀態文字
+                document.getElementById('status').innerText = `目前共有 ${data.length} 筆紀錄`;
+
+                // 4. 跑迴圈，把每一隻熊畫在地圖上
+                data.forEach(bear => {
+                    // 檢查是否有經緯度資料
+                    if (bear.geo && bear.geo.lat && bear.geo.long) {
+                        
+                        // 建立標記 (Marker)
+                        const marker = L.marker([bear.geo.lat, bear.geo.long]).addTo(map);
+                        
+                        // 準備彈出視窗的內容 (Popup)
+                        const popupContent = `
+                            <b>地點：</b> ${bear.location}<br>
+                            <b>時間：</b> ${bear.time}<br>
+                            <br>
+                            <img src="${bear.image}" style="width:100%; max-width:200px; border-radius:5px;">
+                        `;
+
+                        marker.bindPopup(popupContent);
+                    }
+                });
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                document.getElementById('status').innerText = "讀取失敗，請檢查 Console";
+            });
+    </script>
+</body>
+</html>
