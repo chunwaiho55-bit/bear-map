@@ -1,51 +1,108 @@
+import feedparser
 import json
-import random
+import datetime
 import os
-from datetime import datetime
+import hashlib
+import re
 
-# 這是模擬日本黑熊出沒的資料生成器
-def generate_japan_bears():
-    bears = []
+# 1. 設定檔案路徑與 RSS 來源
+DATA_FILE = 'bear_data.json'
+RSS_URL = 'https://news.google.com/rss/search?q=熊+出没+when:1d&hl=ja&gl=JP&ceid=JP:ja'
+
+# 2. 簡易座標對照表 (實際專案建議接 Google Maps API 或 Nominatim)
+PREFECTURE_COORDS = {
+    "北海道": {"lat": 43.066666, "lng": 141.35},
+    "札幌":   {"lat": 43.061771, "lng": 141.354506},
+    "青森":   {"lat": 40.822222, "lng": 140.7475},
+    "岩手":   {"lat": 39.703611, "lng": 141.156389},
+    "宮城":   {"lat": 38.268222, "lng": 140.869417},
+    "秋田":   {"lat": 39.716667, "lng": 140.1025},
+    "山形":   {"lat": 38.255556, "lng": 140.339722},
+    "福島":   {"lat": 37.760833, "lng": 140.474722},
+    "長野":   {"lat": 36.648056, "lng": 138.194722},
+    "新潟":   {"lat": 37.902222, "lng": 139.023611},
+    "富山":   {"lat": 36.695278, "lng": 137.211389},
+    "石川":   {"lat": 36.594444, "lng": 136.625556},
+    "福井":   {"lat": 36.064722, "lng": 136.219444},
+    "群馬":   {"lat": 36.390556, "lng": 139.060278},
+    "栃木":   {"lat": 36.565833, "lng": 139.883611}
+}
+
+def load_data():
+    if not os.path.exists(DATA_FILE):
+        return []
+    with open(DATA_FILE, 'r', encoding='utf-8') as f:
+        return json.load(f)
+
+def save_data(data):
+    # 按日期倒序排列
+    data.sort(key=lambda x: x['date'], reverse=True)
+    with open(DATA_FILE, 'w', encoding='utf-8') as f:
+        json.dump(data, f, ensure_ascii=False, indent=4)
+
+def get_coordinates(text):
+    """
+    從標題或描述中提取地名並返回座標。
+    這是一個簡化版，優先匹配具體城市，再匹配縣。
+    """
+    for place, coords in PREFECTURE_COORDS.items():
+        if place in text:
+            # 為了避免所有點都重疊，這裡可以加入微小的隨機偏移 (jitter)
+            # 但為了演示清晰，先直接返回中心點
+            return coords
+    return None # 找不到地點
+
+def update_feed():
+    print(f"🔄 開始抓取新聞: {datetime.datetime.now()}")
     
-    # 日本各地的粗略座標範圍
-    locations = [
-        {"name": "北海道 (Hokkaido)", "lat_min": 42.0, "lat_max": 44.0, "lon_min": 141.0, "lon_max": 144.0},
-        {"name": "長野縣 (Nagano)", "lat_min": 35.5, "lat_max": 36.5, "lon_min": 137.5, "lon_max": 138.5},
-        {"name": "秋田縣 (Akita)", "lat_min": 39.0, "lat_max": 40.0, "lon_min": 140.0, "lon_max": 140.5},
-    ]
+    current_data = load_data()
+    existing_links = {item['link'] for item in current_data}
+    
+    feed = feedparser.parse(RSS_URL)
+    new_entries = []
 
-    # 隨機產生 10 筆出沒紀錄
-    for i in range(10):
-        place = random.choice(locations)
+    for entry in feed.entries:
+        # 檢查是否已經存在
+        if entry.link in existing_links:
+            continue
+
+        title = entry.title
+        published = entry.published_parsed
+        # 將 struct_time 轉為字串
+        pub_date = datetime.datetime(*published[:6]).strftime("%Y-%m-%d %H:%M:%S")
         
-        # 隨機生成經緯度
-        lat = place["lat_min"] + random.random() * (place["lat_max"] - place["lat_min"])
-        lon = place["lon_min"] + random.random() * (place["lon_max"] - place["lon_min"])
+        # 簡單過濾：只抓取標題含有「熊」或「クマ」的新聞
+        if "熊" not in title and "クマ" not in title:
+            continue
+
+        # 嘗試解析地點
+        coords = get_coordinates(title)
         
-        bear_data = {
-            "location": f"日本 - {place['name']} 山區 #{i+1}",
-            "time": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-            "geo": {
-                "lat": lat,
-                "long": lon
-            },
-            # 放一張可愛的黑熊示意圖
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ursus_thibetanus_3_%28Wroclaw_zoo%29.JPG/640px-Ursus_thibetanus_3_%28Wroclaw_zoo%29.JPG"
+        # 如果找不到地點，預設不加入，或者可以設為日本中心點並標記為「地點未詳」
+        if not coords:
+            continue 
+
+        # 建立新數據物件
+        new_item = {
+            "id": hashlib.md5(entry.link.encode()).hexdigest(),
+            "title": title,
+            "location": "新聞報導地點", # 這裡可以更進階用 NLP 提取
+            "lat": coords['lat'],
+            "lng": coords['lng'],
+            "date": pub_date,
+            "link": entry.link,
+            "source": entry.source.title if 'source' in entry else "Google News"
         }
-        bears.append(bear_data)
+        
+        new_entries.append(new_item)
+        print(f"✅ 發現新目擊: {title} ({pub_date})")
 
-    return bears
+    if new_entries:
+        current_data.extend(new_entries)
+        save_data(current_data)
+        print(f"💾 已更新 {len(new_entries)} 筆資料。")
+    else:
+        print("💤 沒有發現新資料。")
 
 if __name__ == "__main__":
-    # 1. 產生資料
-    data = generate_japan_bears()
-    
-    # 2. 確保 data 資料夾存在
-    os.makedirs("data", exist_ok=True)
-    
-    # 3. 存檔成 bears.json
-    file_path = "data/bears.json"
-    with open(file_path, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=4)
-    
-    print(f"成功產生 {len(data)} 筆日本黑熊資料！")
+    update_feed()
