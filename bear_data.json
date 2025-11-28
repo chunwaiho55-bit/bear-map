@@ -1,5 +1,555 @@
 [
     {
+        "id": "ff60b7f573f8d33d04670b4ef4660a95",
+        "title": "「素朴にロバがいる生活っていいな…」ロバと元新聞記者がめぐる全国旅①北海道の海洋深層水を釜で煮立てて塩作り　熊出没で相棒のクサツネに迫る危機も - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 43.066666,
+        "lng": 141.35,
+        "date": "2025-11-28 23:09:27",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80VmdZYXB0Q1NZUy1ISkJrd2cwUUhYT2ItcDFodGxGdnJUYWhpaFZJcm1mMTFxZ21fR0Q2LXhmTF93LVFjcmhKSGlpaFZjZEo5MVg0SXd1T0daUHY3blloTk5Ic3BnSW81c29MZEhlTdIBdEFVX3lxTE9POXhIVmZoZnlBdFBabEVqNEw1OTNheFJReVBSVGpLcFRvcGZPQUdaYld2SE82cXl2bFdxZG5JbWZsWmpzRzU0NURlZXo3T0tVNW1RZkJPZUVjSjNXQS01THZuREduZUhZUmRVY1pFOTVmczIt?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
+        "id": "bf7a8efa1c992561b3bf0e63e41ea893",
+        "title": "「このまま待っていても仕方ない」熊出没相次ぐ秋田で料理など配達導入の店舗が増加 - 河北新報オンライン",
+        "location": "新聞報導地點",
+        "lat": 39.716667,
+        "lng": 140.1025,
+        "date": "2025-11-28 21:00:00",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rWVNBUUxXVm5mUDItM2JiRl9JOFI5RzloRFozWEYyWW1JajNCNmRrdHNjR0FRX3Vid212S1I3dTJhanN0V0lybGY4Z1UyZ2ViNGx3V3FPUWJSZ2oyTGdhMA?oc=5",
+        "source": "河北新報オンライン"
+    },
+    {
+        "id": "91e126001122ff1ff1a2e7948047d830",
+        "title": "宮城県・女川町「クマ出没のお知らせに関する訂正とお詫び」を発表 真偽確認→「フェイク画像」と判明 - 山陽新聞",
+        "location": "新聞報導地點",
+        "lat": 38.268222,
+        "lng": 140.869417,
+        "date": "2025-11-28 15:04:50",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ0NIdHNCOTdaeXBOVUR5TDNPTmlxQkpOb2dmdjlSY1RiSGloLU5RMzNNTE9RM1QyWmhTOE8zZzVCWm93VUJmcWhjOXREclcwZkoyMDNjdWFqbkZxcnk4UnhJZV90X0UwYUF2R2pLa29ieC1mLU85Q1Z2MzdQdWduVUpHSUFJZw?oc=5",
+        "source": "山陽新聞"
+    },
+    {
+        "id": "e34658d0be0f34da49474a72a7dffa72",
+        "title": "クマ出没情報周知迅速化／青森県が緊急対策 - au Webポータル",
+        "location": "新聞報導地點",
+        "lat": 40.822222,
+        "lng": 140.7475,
+        "date": "2025-11-28 13:26:00",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA1eDNvOEpRTmNkQi16clhva2VSd1p0REE1Q0Y2THh6TG9qcTB2bG9XSC1wWlJqQnRWZk1OZzJqZG1rSVZwVVNOaXM3aV9STFMxdkpOU2d4Wl9YZW5PTURwbzR0WThCRW40aGtLTzhHMTltLUtFS0pmSFpqSQ?oc=5",
+        "source": "au Webポータル"
+    },
+    {
+        "id": "3198dc8e7d485a72eacb21e224af7561",
+        "title": "相次ぐクマ出没 札幌市内の観光施設ピリピリ 利用者から問い合わせも - 北海道新聞デジタル",
+        "location": "新聞報導地點",
+        "lat": 43.066666,
+        "lng": 141.35,
+        "date": "2025-11-28 12:28:26",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5URkdJMVc0T2RLaDRaSmphdlFyZDZaVko5eUZEeFJKQXE3aWxrN1FqRl9Fbms0TlZnYjZQNk5IcV8zRm9nN003c3I1UDhFNVh0NDJWZVM3WlNvZw?oc=5",
+        "source": "北海道新聞デジタル"
+    },
+    {
+        "id": "95ef58dcdadf3155cd7cbfc9ac40ee2c",
+        "title": "（福島）福島市在庭坂江向でクマ出没　１１月２８日夜 - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 37.760833,
+        "lng": 140.474722,
+        "date": "2025-11-28 11:56:00",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU2dURDZ4dURRck1lbjFmaVV4cGhQNG1zNElLT2EzR1JRZE5lMk1YYUQzY1RESkFpUi1yUlBncENBb2tZVGxIVzhDNm9zTm9xTmVTUF9weWoxcEJtZnIxbHJGNGs0b1UyQjVUYmFUeFpHaE4zMW4xWUNMajNiZ0kxdC0yLVUzYU5YT1FMQ05sUTBZczBDM3Y0ZnJZTWdldjg5QVHSAaIBQVVfeXFMT1NnVEQ2eHVEUXJNZW4xZmlVeHBoUDRtczRJS09hM0dSUWROZTJNWGFEM2NUREpBaVItclJQZ3BDQW9rWVRsSFc4QzZvc05vcU5lU1BfcHlqMXBCbWZyMWxyRjRrNG9VMkI1VGJhVHhaR2hOMzFuMVlDTGozYmdJMXQtMi1VM2FOWE9RTENObFEwWXMwQzN2NGZyWU1nZXY4OUFR?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
+        "id": "4a061fd3f72c0c40e4f4bbd9a6ff779d",
+        "title": "（福島）須賀川市森宿坪ノ内でクマ出没の可能性　１１月２８日夕方 - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 37.760833,
+        "lng": 140.474722,
+        "date": "2025-11-28 10:52:00",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUDAtVVBDaG8wRGtIWmxYdXk4VWJDN094TnJ6M0NZX0R4b1p4eFl2VGZTZ1c2ZUFXZTRSQnlVUDZPbTBSdzBVZjRYQ0hYSGFCeVdZME1WeTdLVG1vMEthZDdaS2JTX3FFb3BzN0ZNNXhoQnZFX1ltR01tS3NOa2JQcG9PdmJMejZELUxOLXdHNmN5TFRoaWlvcGIwVnJ5NlpDY2fSAaIBQVVfeXFMTVAwLVVQQ2hvMERrSFpsWHV5OFViQzdPeE5yejNDWV9EeG9aeHhZdlRmU2dXNmVBV2U0UkJ5VVA2T20wUncwVWY0WENIWEhhQnlXWTBNVnk3S1RtbzBLYWQ3WktiU19xRW9wczdGTTV4aEJ2RV9ZbUdNbUtzTmtiUHBvT3ZiTHo2RC1MTi13RzZjeUxUaGlpb3BiMFZyeTZaQ2Nn?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
+        "id": "52d1ef1bfb9dd9f6dfb587c001717752",
+        "title": "クマ出没受けて「クリスマスライトアップ」中止 浅瀬石川ダム・津軽ダム（2025年11月28日掲載）｜青森放送NEWS NNN - 日テレNEWS NNN",
+        "location": "新聞報導地點",
+        "lat": 40.822222,
+        "lng": 140.7475,
+        "date": "2025-11-28 10:00:01",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVUhUSnFvVEhidmRrdlpzVDBTdEdIdHhqM0kyYWlxdWt2UW1jNEx5YlA2MDhXZ0g1U0pQak1wWGxHcWJuS0pJYXVXRW9iRFhGOVJCc1VxN0w4VVlrbkliMTBlZ3ppMi1NVUlUcUJjMENibXdXUFdRRjRHRWJDbEFvRjdxV2lBd1E?oc=5",
+        "source": "日テレNEWS NNN"
+    },
+    {
+        "id": "cfb1177b616ad22ab29b266dc2968556",
+        "title": "（石川）志賀町富来七海でクマ出没の可能性　１１月２８日 - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 36.594444,
+        "lng": 136.625556,
+        "date": "2025-11-28 09:15:00",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZThTY3QtR25FeHZwSkNQRVhYcnZPLVo1V0puRFFOX0UzTm41OW9qTTEwSkR3ZTdSY21FcHY0dW5nTzhnU2V6WFFqbldfcXQzWFZEUTJ4ZUlBck8yZ2lzQnJKRDZnOUIyam0wWng0UHFmN3JPSUl4bFBpQmNkSnNLVDFCa21CLXVOUV9ZdTBBN29MRC1vcklNQzJXMi3SAaIBQVVfeXFMTW1mZmZRVHFwTGpIU1lKQXQ1M20waERjcld5ZTI3NzdLOXRjaTJaaDM0WlRiZlNsSUxGVVc5Z1hnQXdySWpkdHA4TmM2dG0tcXZ6OEhnTnlFZXJpbHhyRndrSWNmSjA1WHB4X2l6YmE2aWVCcjM2ZE5wQTRnMzJtZ0szZ1FEVm5qTHFxSkxBb1dZN2w3YkR6d0pFeGtwYVpkQWxR?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
+        "id": "08ab2c93d5dbe538bb651ed69ff5eed2",
+        "title": "津軽、浅瀬石川ダム　ライトアップ中止／クマ出没で - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 36.594444,
+        "lng": 136.625556,
+        "date": "2025-11-28 08:51:00",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB4LThfb1A3aUdlMjVPUVhsY3B4a3F0NU91b1pfNDZuTEFvYk1zek03TXhUT2hXQWIweU5WMWhUNVk1NEd6amxNbDVHZklTbWhmMlUxaXBvcllEMWRCUDJkSk9PMXBrWlFfWWZaR0VUODJqTjVIckdTMXBfQdIBgAFBVV95cUxQdWtuRWZJN1lwWHdwZzdLNGRCMzZhOGxmcUI5eXZSTXdoXzlmcFU2UnBIUmxMaFdFY0ZQZzRTUG4wRWtMYmhxc2NzajdkbXVKSlpSRFFDNGpqV1JaRHJrN3M1aWlMM1ZtSUxDUXhneHB1Q3hZMUdQRHctRnlMOU5FdQ?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
+        "id": "cb3bbd9ca69586b75363e4d682f0dd1c",
+        "title": "（宮城）栗原市築館城生野峯岸でクマ出没　１１月２８日夕方 - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 38.268222,
+        "lng": 140.869417,
+        "date": "2025-11-28 08:12:00",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVjdXUnY4NjREVHRiZWdMb0dmR1NHdnBaM1dteGtaNzlSV3dsQWlfMDZ1TE40NXRJWlhmOWhiOUhPNjlUNWdDdlpMWWo0WmRkMmp3Yk1jWVdtUFhYekxqcUNGY0RSeGV6X05sSjlRSTl4VjNyMWxNaGJqNnBrbDMwNzB5RjdDcERvc0JPUURGaEZiY2tQQXk1UG1scGdKRFNId2V3Z0xrSDZPUVZfSldr0gGiAUFVX3lxTE1vY1oyTE94bC1laU9nT2FVNGJWLUprc1Uwbi02VzVUcjhLMEx5UnNoMTVyalZtTDNlTGxES2FaODFXbEhLU2JmTWhtNGVUVEJfZXFmZ1BNaU5fSkV6ZFpuSjU0RVU1MW1oc1RhNUhabWNmYXhpUHRQUkFFcWdYY0kxdkdvWWVXS3FUbEtpT0hsQ3pBd1M1eUZzWlNsUGFlYWlvdw?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
+        "id": "e2dc46b78d9f1702f6e0116c242268e9",
+        "title": "福島市の住宅街でクマ目撃相次ぐ（福島） - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 37.760833,
+        "lng": 140.474722,
+        "date": "2025-11-28 07:35:00",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZTYwSUwtelpMSnlKX1d2NEFXcFFLRFFOOGp0UGhjMzZVT3ZWOGlLbTVnbGx0OVQ0SjY3MUxBRFFJV0hYSEFDN1lWTV9QOWFrRWw4bklaRzFhYzVGczRBT3ljYTdUNXROQlVaWndiQ0JmaVlraERDaGhMZlZLdHdEQUhR0gGCAUFVX3lxTE9lNjBJTC16WkxKeUpfV3Y0QVdwUUtEUU44anRQaGMzNlVPdlY4aUttNWdsbHQ5VDRKNjcxTEFEUUlXSFhIQUM3WVZNX1A5YWtFbDhuSVpHMWFjNUZzNEFPeWNhN1Q1dE5CVVpad2JDQmZpWWtoRENoaExmVkt0d0RBSFE?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
+        "id": "9e47d029581fd3a70c043614d1d6127b",
+        "title": "（福島）福島市大森後河原でクマ出没　１１月２８日午後 - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 37.760833,
+        "lng": 140.474722,
+        "date": "2025-11-28 07:11:00",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWVlabWVQUzE2cXQ0VHM1Yjd0cUxiU1dxY1BnSk5oWkY4RGpJbnp5Nk85UVh1MGZwZng3WkliNU5PZVBlcXlaS1hLOE9fSXpIdWVCNzk1aGl0WGZNQTJPcWR5VnE4ZmxhSlBxS01VZDNrQURDZWpONjZvRW8xWXRCa2xaOFIzNUlaZ3ZiLWxTQW96N3VDWlF0dFZsYi1WdkNwZlHSAaIBQVVfeXFMTVlZWm1lUFMxNnF0NFRzNWI3dHFMYlNXcWNQZ0pOaFpGOERqSW56eTZPOVFYdTBmcGZ4N1pJYjVOT2VQZXF5WktYSzhPX0l6SHVlQjc5NWhpdFhmTUEyT3FkeVZxOGZsYUpQcUtNVWQza0FEQ2VqTjY2b0VvMVl0QmtsWjhSMzVJWmd2Yi1sU0Fvejd1Q1pRdHRWbGItVnZDcGZR?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
+        "id": "e0dbfeb3065ca5238249d5e4d752d406",
+        "title": "（秋田）秋田市楢山太田町でクマ出没　１１月２８日午前 - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 39.716667,
+        "lng": 140.1025,
+        "date": "2025-11-28 06:28:00",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQb0dPdW5BejZJYXFRRE9KOFVnTWJSN09CTTladzJaU1dLR3YwdzUtajN5VllpYjJEZk12M0YzVWVXdzJCd0p4Ny0weFNhWmpMNlktOHNnaW05QXpHTnVGNlV3RllRd21KSnc1djh6bHo1UUcyVVV4NUx4dG94cVpHbHlzTW1BNmFzT1RfLVJqUE9nTGJucldVcll4VG_SAaIBQVVfeXFMTTJoSFdsMHhETzB0UUNvVFBvQTZWOTFOVDY3TUp3WTc2ZVl6T2V4SFBfVkE1dWRCN3h2Vm96Q0NtaE04NVdBSU1ZLXVmOTBIdlNBRnloNTV5WHB2WWE3LS1wZE90TVpDWXBGXzJYeVFha25zZ19aWGo2UFBRS0Q5eEl5NjgtTlZEVWNzMU9fLWlubjRfY2RpSWF1UnBYaXAtRU1n?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
+        "id": "4d10876607a9df7935501b591ac35d2b",
+        "title": "（秋田）秋田市楢山太田町でクマ出没　１１月２８日昼前 - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 39.716667,
+        "lng": 140.1025,
+        "date": "2025-11-28 06:27:00",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcEZGSHBiZ2RDUUJpWFgzMXo1aDNLaHNnTXJhekRKRjEtUmhCRG1jQUlaSVNWWl9uNEJOUDRBRmRtMzRwVFhVMkpwak5qZ21MUWpBVFlERXRPMkJ1endPbXpTOHBIWFdhY0c1cVFuZ2kxVjNzWFgwVU9HbmdvZ0lIVjFpVmdQczl5RDVJdUpWOXpQLXZrT05lMXYxRELSAaIBQVVfeXFMTkowbEtod2FUQUo4NHVqdWs0d2NmM0ItRTVNTUlrNUhsYkhjY1Y4TG5zVUNFY2VYS002a1dBUmpGS01zNW5yRkRpQXc4SVBQdGVjOWR0LVZMekdFXy1YMV92d0FYTW9Zb2NhYVh5VjdpTjd1WkppOTJwMnNQWlUzUm5haVNpQ21wYlVlc0M1d0JPQ2pvTW9ubDNibk4tNjUyRndR?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
+        "id": "442a91ec826ab3b612775b0e555c0d9b",
+        "title": "（秋田）大仙市角間川町旭森でクマ出没　１１月２８日昼 - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 39.716667,
+        "lng": 140.1025,
+        "date": "2025-11-28 06:23:00",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPY2pXWWoxSHVSWDdSUHlqRi1id1dlaVRJaVpFeXpPMnNkYkEyazgtZGhzMHZKTXNQeldjQjd4b2tZNnhMZFVSYW5RbHFta241d0NOX2g3TjdPMjhIX3laaDFVSUhZT3RDWnRPZEIyTHUxLXdCZ3ozRENEc0F2YnZ1cHFZWGotd0ZhQVNBZ2tDMUxXS1VWUmpqclFoLVrSAaIBQVVfeXFMT3k0czM3QW5vZW9sN0xBN1pMeTk3ckxyRk1zZFVEdXlidDQxNkJUcmwtOHNEUC1DN2RHTzM5TDItZjlHczhNWXhueDR2cDZ6bTVMWHJRNm9HUGVxX2xlNUs4LVhTUi1YRVYyUWNZR2VKVU1IaFZlX28zNzRscmRFT1lUaW82YnJyTFc1ZFhWX1RmQVV4cXYwcC13MVN0UmVrbTdR?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
+        "id": "c074aefde3ea89f38caf3e1a63a869f2",
+        "title": "（秋田）秋田市飯島薬師田でクマ出没　１１月２８日午前 - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 39.716667,
+        "lng": 140.1025,
+        "date": "2025-11-28 06:22:00",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWTl6bXo2RkdaczZYSlktcUZ3OHNPTDdzRzdKZ3BkYjgydklPWFFzWmlkLXBHUm5tWXpZSmVjWlZWRmlXWF9DOENCSi1NUi1aMWo1N19PcnZvdV9LbUNmekJpTGg3WkNTcXBveG5nYkd5YlNjZ3RqMldFY1hXM2VYWUF2c05nSHRmNEhFN1dWdFdLTjNhVGUtLVoyN3fSAaIBQVVfeXFMTkNoODNOZFNJSVU1cndIbnhVa25sSXVBY184dXZSZmkzYld6ZjZYRHlkRDdqSzM1WkpMMnFfX2sxYmR6VjNuemhfOHd1aDJ2YWw3b0VRZE1HT1YxT3d0YnJvOEVVRFQwTmwtYTB1SmpNOU5zcXpReUpwSWpxMUpSS2FpX19MZWNJTHhYVHZzZTJXTXFmWDd4M3l3aGprdVNsR1F3?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
+        "id": "991b4ebf108d704debc187d2be7a6831",
+        "title": "【クマ出没情報】郡山市片平町でクマ目撃　28日午前8時すぎ　福島 - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 37.760833,
+        "lng": 140.474722,
+        "date": "2025-11-28 06:08:00",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vUEs2QklVVURxSG5iTklzbkdnQjNfRXR1eDNpVDBiaUpjNnVpQ2hmdHVFX181TkJLT0IwaTFLS2I0R2ptZk1GRHhob0RvT1VWb01zak94SThLbGZJenhPNGhsQkFNYVI5Q3V3dkxBSdIBdEFVX3lxTE9iallncGx2UkR6RWFaS2o2RUgyVzJHdDl5V1NhTWI5NENyVGpJQ3hQZFNobXFNdGlCR0h2WHNHQlkydXNxTXdKTVQ5MlV3RXVhR3NCYWpRSERpS3BoMTFWMXBHaDVib3dhQ2FBX25fN3AwRzh2?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
+        "id": "c9ef70d377d07cd2af9e4c80a6c85ee4",
+        "title": "【詳細】宮城県内クマ出没情報（２８日午後３時時点） - khb東日本放送",
+        "location": "新聞報導地點",
+        "lat": 38.268222,
+        "lng": 140.869417,
+        "date": "2025-11-28 06:04:00",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA3VUJpLVdJRXQyTjhBZEwtalNoalJvNW5TS1lkRjNXc1ZwZG5WaE05SjhlVXBDOVJBR1NQdE9DdmtFT000My1veDhzMmdzbTQ?oc=5",
+        "source": "khb東日本放送"
+    },
+    {
+        "id": "102b1bf5e186fb47c93163c0f451b656",
+        "title": "（長野）軽井沢町発地でクマ出没　１１月２８日昼前 - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 36.648056,
+        "lng": 138.194722,
+        "date": "2025-11-28 04:58:00",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcXh2SzhIMFBNMl9lakF4U2RxaUl5dG4tamtYZXFyWnM3SDFmQmM1cnBJend4N2JLSWpfYWtrYXNJQk01RUxkTFVHbGdsblNiSnFaREdldWIzaGRGRmN3bHR6bzQ5RHQ4UHFTbktIYkVySV9EM1VOYmlEY2FTeUZSZjFOczJSMnZuVURIQXFlaEgyb3ZSUTE1UmNTLWbSAaIBQVVfeXFMTTNhaEMtVEpUQUZ6SXZsZDlOdXFBUi1lSVVkNENOdHZXb05wbWh1amk3OFpIQTFVWGlRVHc3a0NkQjBMYmstaHBRb1IyOXJ3aUdzM2JrRWl3MUVJRzQxb2pBWmhHaVRNa1Y5WHpJUU11Q1V4YTVZV2o5dUliN2dsWnNqMzJ1NWpTQVppeGluSUx1d0tsdUhtLUU5YjRfbVFqMHVB?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
+        "id": "17cb0a70db1dd0177f38f40689b92f80",
+        "title": "クマ出没 登下校の安全どう確保 冬眠場所探す時期、施錠しっかり - 北海道新聞デジタル",
+        "location": "新聞報導地點",
+        "lat": 43.066666,
+        "lng": 141.35,
+        "date": "2025-11-28 04:16:48",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xQU4tYWlTTWJydmxtb3VUNTVKVGhvOTRkZ2RLYzNQX3RlTXM1MGp4bTVtUFhzeWNEaGt3aHBZdnAtNTNIWDk0MU5hWGhWOVlJN2xmX184U2hCUQ?oc=5",
+        "source": "北海道新聞デジタル"
+    },
+    {
+        "id": "1329241e45144556de095b97ad7e0873",
+        "title": "（群馬）沼田市利根町平川でクマ出没　１１月２８日午前 - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 36.390556,
+        "lng": 139.060278,
+        "date": "2025-11-28 03:55:00",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRXcxXzJGRlN3TEhlQ2ZJeUQ1UnZsUHU3RElxMDdUWFZvN3Zmd0s1cGV2UFBfOGFlN2s1MUowVkdSZmNvODk3c3o1TDlWV2txekxULU9SU2NudVBHWjBOdzF2dUlLS0gwM0RKckZyd1diVnZ0M3Q5XzFLSlVST2dRdkVXUzJ1VkVUdTVURUVvZ25pSkFYSndpY0dBbXrSAaIBQVVfeXFMTzhPdGF2WG16QXU3N3dpNjFwOTBjUE5GdUxtZExEQWh0OXIxd1VGOGdmV2lvTVV6LTA5V00zTzRGYUM3SXdsTmtfOHJ1N0JYa1paRlhqZE0zM3RlYV9CQ3ludVRJVnF6eG9KRFJMQldZVDd3X1FzQmJMUy1RWXJENWJRWDVSckNVUDNiaUhKMXVScVVZMzAzcmdWV1FqbkZZM2pB?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
+        "id": "d860def4f08ca16ba802247bbed8923f",
+        "title": "（秋田）鹿角市花輪寺坂でクマ出没　１１月２８日朝 - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 39.716667,
+        "lng": 140.1025,
+        "date": "2025-11-28 03:16:00",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSTBZaEcydkpCLV9mQVhKOVpPUlFSazFMVzNmQkFWT0JwVmVDWEozeE1TN25ob09raFR5Y050UnIzT3A3ckNfRXM2eGF2SDhUdGx2SS1kT0Jhbl9Bc1ktTFVmVklSdG9NWFZ5di1IMDVUOW5xS2M2QkJvS0VQcy1ucm42MDl6eVF4eXhBcGpTRmJwX19IX183Yng5bmfSAaIBQVVfeXFMTzkxZldpRUJpNlVMM25PcjlSMzZaNVByVnpib29CN0d2aUJhblUzRjRxYko3UzdQU1hINHdtLW5FZVdZcHNoaTF1WTlvNEhkX2JOOVNzcmFDWDM4dUp3SWhDdVdaQ1h3WVVWR0VYWTFOaXg4cVBrY1BkRXYzMGJwRG1TVWhUanpmZUxCVy1DU3luWnAxOWd4ZUtKbGNEQjFsT2x3?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
+        "id": "c960dad4990b90f6782d708f89385b54",
+        "title": "（秋田）男鹿市男鹿中滝川藤巻台でクマ出没の痕跡　１１月２８日朝 - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 39.716667,
+        "lng": 140.1025,
+        "date": "2025-11-28 03:14:00",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcjcwN1A3QXdjeHZBMTNlUUpBWXFfMlF5THhReG5jYlI1M3lzUFJGeXZvUDduYXhvM01WdEFmOXZoZHNTeUh5Zk1HYjhsWlFiRlFFSWo0bWE0UHF3a3ZGWjhZd0ZDWDVnamU4OVhYRTdDRVBsRGNJQll6ZEt1dXNJa2ZiajZLUkMxeGZBQnB5bXBqUllSRW10TGxKcXnSAaIBQVVfeXFMUFNQd2ttSVhkMHA3MDN4VkZla3FYanlsZmIzV2s5bWNJMW5xZ2tyYy1Gbjc3X0YzdGpLT3kwWG1wc1daRzFmUWJ6b2tLZ1I5aUdvTE5NSG92TU9TNUhHNEhPN3ZId2NMUHlsS1RZNlVodmczSUtsS3NxZFNCV01YN3MzaWMzcEtEOWZ2M1pYSWRwYS1Ndk1OTElyY1dzSXBhSmlB?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
+        "id": "be0cd7e936596998dcdb4218f6f14157",
+        "title": "（秋田）秋田市大住南２丁目でクマ出没　１１月２８日朝 - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 39.716667,
+        "lng": 140.1025,
+        "date": "2025-11-28 03:12:00",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPY3ZwejRGZEp4cjlCQXFtS0s3ZjJEcFVOcG5Wa0tYT1ktWjhBRFhpdDZ0djFGSzc5aWlJcHlpSUhZUVNOcXZJYkp6NkVobXVYZzZ2VXdZSGc0bmN6UTZia0dXRTJvdXR2bDJGd2FsbEdQbUZGVHgtLVN3OGFiNmkxOE1BNWpKNlhHS2FKWlA3Nzhid1lSWWh0S3NxSErSAaIBQVVfeXFMTV9iaEhIaFV1cmdPdzVIaVJVWXpaS2hzM1NVUkROajUwMU11WW9ib3NiVDUwNHcxMElPdFlNa2JKM05QeUpsRWNPN0xhbm12aUNJMVlfdmt2ZUlQQWdpQzFYMEExanlhcG91TnVkVkstcG8xaVFrSzR6cF9faUNjdDNmTnRPdHlQNnhTTS1iVWd2T09WdmdoTmxhb0E4NEJnNWhB?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
+        "id": "ea0e7519022cefc7ec2b617d39d5e7ef",
+        "title": "【クマ出没情報】公園にたたずむ熊…新聞配達中の男性が目撃 喜多方市塩川町 28日午前3時ごろ 福島 (2025年11月28日) - Excite エキサイト",
+        "location": "新聞報導地點",
+        "lat": 37.760833,
+        "lng": 140.474722,
+        "date": "2025-11-28 03:12:00",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZcXp6SERVSUtQZWpxUUVlQUNSZmJ1NVhQa0F0ZWluU2VpYzlhVjdtWmY4THJWN29uSy12dF9CdXB0b2xNRmJzQmYxN21YbHJla3lWVTF4YVZLTUtMaGNsazBJenp5aE1wcWMzMGNRcw?oc=5",
+        "source": "Excite エキサイト"
+    },
+    {
+        "id": "8e34155493c2f78c6e526afa462ce780",
+        "title": "（山形）天童市蔵増でクマ出没　１１月２８日未明 - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 38.255556,
+        "lng": 140.339722,
+        "date": "2025-11-28 03:10:00",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZTU2WEdTYXVNdjJQOERuMTVoalE3RE04TUpiVWJmUzdMd1BkeGc1LTVfOHNPSlRDS1JfTmdzZzV5SkpjcUZvTlViTkQ2YnZyTU5HYk5ISmp2djlldFFyMW1LaW9VZHl5SURkWE5HclB1ZDNBaEpWUU9YMWtoSjdOWjFIN2J2enJtaWhuRV9LNVNyWXJvWm5vOUxZbGfSAaIBQVVfeXFMTmlCME1IdFFydmMzcHZJVTNXSWtDUVJacWc4a3p3RTBoQWlpM1B2U3U1bHJjOXBza1JDYmRvOFJMcFNDeDdVblJQbXNLUS0zVDJIM1hXWG1OUVVCNnZHSG5ranljcTlDUXlibEl1bUpuNlNPeWFEZTVNVEtMNFVsOW1NY3RLQlNDRUdrWjZWcmU5WjFnVGxVS0h4M0c0anZ6eEtB?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
+        "id": "2d2d4d6283024f4bd5d9372c16adcb12",
+        "title": "近くには中学校も…保護者送迎、部活中止などの対応 郡山市や福島市で熊の目撃が相次ぐ 福島 - 日テレNEWS NNN",
+        "location": "新聞報導地點",
+        "lat": 37.760833,
+        "lng": 140.474722,
+        "date": "2025-11-28 03:08:00",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMkFNaXhJVnQ0ajljYVg5OHZzQkc1Nm5PMU1IWnhzZDg5WDdLYjlrTzJCSUp1WHBUN0pJUTIzcmptYWl6M25QNkVWcEtSZXAxSHZOd25Ld1Y2VndlelpqcFhxbnJMOUZ0Q1FxS0FvSUFPUDRydDJpcWp0T19MbEtRN04wWkhidFk?oc=5",
+        "source": "日テレNEWS NNN"
+    },
+    {
+        "id": "af2cb854e2d10b1779c6d0e5369f4000",
+        "title": "【クマ出没情報】公園にたたずむ熊…新聞配達中の男性が目撃 喜多方市塩川町 28日午前3時ごろ 福島（TUFテレビユー福島） - Yahoo!ニュース",
+        "location": "新聞報導地點",
+        "lat": 37.760833,
+        "lng": 140.474722,
+        "date": "2025-11-28 03:07:13",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ldk1ZSi1lZ0d6dFRhaUw3MVptSGJ2ZFBRU2NzMWdEVHhxSDJQNWJId0pDTXVyQ0hZbFcwVG55THFadEtMNUtmdnltNXAyMXY0bXRENlh1Zk9RNUQ2X2hpTzFjRDFIMldJOG5zeXh5VWR6WFlqcWhZNXJGc0FIdzg?oc=5",
+        "source": "Yahoo!ニュース"
+    },
+    {
+        "id": "3884ef7b5525f746217ce60228b91c93",
+        "title": "（秋田）秋田市茨島５丁目でクマ出没　１１月２８日早朝 - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 39.716667,
+        "lng": 140.1025,
+        "date": "2025-11-28 03:07:00",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNlNlQlQtTlItMVNjcGhVcmVkcU9UOF81V1JaZ3pOSXB5TTZ5NTd3MUJSRk54ejRENjItS09rTmNYeFhfbHR3NkFGYjlQSGx2bWxweDlUalI1aHBEdXZpSXBsZjFTNk5PajQzVVExWXVrUHd0MG5qaXloWWNYOGh0Ymw0ZEJNY2l2LWdFS1FfRW5JOXJrWXliNXRjM1rSAaIBQVVfeXFMUFNzUTJzQVlrRnpPdG0tOUVlSzNBUzRMOTBrREFNWkZPNkM3LXJDOHRSQ0NWU3B1endYdEJYbWpYT1BaWlJ4NGhFMkR0TzUtYjNkSFBOVkdqazZUOUxVdnl4cm1wRmhPQ0dvY24zeWRmM25TVGFsLW5JSHA4MUlfY3ZqU3dHR1A5TXlhWEx2NEdiejE3SWdmSG9Uc3A0T0EteUtR?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
+        "id": "4b363a27e77ad2690c324aeb2287f66d",
+        "title": "【クマ出没情報】公園にたたずむ熊…新聞配達中の男性が目撃 喜多方市塩川町 28日午前3時ごろ 福島 - TBS NEWS DIG",
+        "location": "新聞報導地點",
+        "lat": 37.760833,
+        "lng": 140.474722,
+        "date": "2025-11-28 03:06:00",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tbXlfZTJOT28yTHBFNFlJMnpyNDZpd1ZGRzB6QXg1OTNtajJsUHB3Smh0UjFVMUR4b09Hd0M4eVdZZEpsZnY3b3BJcnZ0aWdkeDdKNzlkeUhidw?oc=5",
+        "source": "TBS NEWS DIG"
+    },
+    {
+        "id": "772b799776e37c507f79bc2789eb8846",
+        "title": "【クマ出没情報】公園にたたずむ熊…新聞配達中の男性が目撃　喜多方市塩川町　28日午前3時ごろ　福島 - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 37.760833,
+        "lng": 140.474722,
+        "date": "2025-11-28 03:06:00",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vWHYtbmhqdjM0endoa04wNzd1anFRTFYySTlmY01sMzFhNEN0b2J4TGI2eDBCTmtKQkdEUmg2cnU3VzFST1o2VUNkaXY5V2U5VlpyeVB0cFVQWm5tbHNuUjFHaFR2QUFyaFhrUlRLTmtqTF9B0gF0QVVfeXFMTW9Ydi1uaGp2MzR6d2hrTjA3N3VqcVFMVjJJOWZjTWwzMWE0Q3RvYnhMYjZ4MEJOa0pCR0RSaDZydTdXMVJPWjZVQ2RpdjlXZTlWWnJ5UHRwVVBabm1sc25SMUdoVHZBQXJoWGtSVEtOa2pMX0E?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
+        "id": "536b405437b4518b32098da95aa7d799",
+        "title": "（福島）郡山市片平町庚担原でクマ出没　１１月２８日朝 - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 37.760833,
+        "lng": 140.474722,
+        "date": "2025-11-28 03:04:00",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYkt5SjNxOEN3R0RMSm1YcUU4VUtXRDRLN1FWa0thN2s2eWRvU19pWkEyT3NWUUhualgwWUVxLXhQWEtSR29uUk93TE9hQnVrUG9Jc05tbzVXN05NbERfWE4zRFRlUloweTZiSXJneWFkeFdGR2Q2TmlEc2VwMTVBX0kzek80Z2RSUUxIVzlvb3dlTzVwd3RtaExVeVk1ZUFyRXfSAaIBQVVfeXFMTWJLeUozcThDd0dETEptWHFFOFVLV0Q0SzdRVmtLYTdrNnlkb1NfaVpBMk9zVlFIbmpYMFlFcS14UFhLUkdvblJPd0xPYUJ1a1BvSXNObW81VzdOTWxEX1hOM0RUZVJaMHk2YklyZ3lhZHhXRkdkNk5pRHNlcDE1QV9JM3pPNGdkUlFMSFc5b293ZU81cHd0bWhMVXlZNWVBckV3?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
+        "id": "3f163660e1a0a0ba7f4c030d599360ab",
+        "title": "福島市の住宅地でクマ目撃相次ぐ 飯坂町平野では小中学校の近くで 住宅建ち並ぶ太平寺でも熊出没 (2025年11月28日) - Excite エキサイト",
+        "location": "新聞報導地點",
+        "lat": 37.760833,
+        "lng": 140.474722,
+        "date": "2025-11-28 02:57:00",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBkM3RFenpyMHVJSGUxSEoyZHZJOVU5eHB5XzN6RUhwSkU3TzBQXzUxOVJJNVBQY0dHYnAyNU81YWdGZE5fNVQwS1M2MWcxWFpkNDVsWjExSlhiX0VRWlZob1JzcWFGakhZTGV0cndkWWJJb1ZhU0VUNjhEdw?oc=5",
+        "source": "Excite エキサイト"
+    },
+    {
+        "id": "af2630fe4b192ba8f298e5fc461c35e5",
+        "title": "福島市の住宅地でクマ目撃相次ぐ 飯坂町平野では小中学校の近くで 住宅建ち並ぶ太平寺でも熊出没 - FNNプライムオンライン",
+        "location": "新聞報導地點",
+        "lat": 37.760833,
+        "lng": 140.474722,
+        "date": "2025-11-28 02:53:00",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5JdVlfaWJ2aVhrVkoyRFNXOEZrOEUyWnQ4VTdhd0ZGdTNvVV9lTERPS3A5R0M0QlpXODQ5ZkkwdWZ6ZVhRUlNmWEpBdVA?oc=5",
+        "source": "FNNプライムオンライン"
+    },
+    {
+        "id": "75cce377e49caf716b9ab5fbd637f3ca",
+        "title": "中学校のすぐ近く…福島市飯坂町の住宅街にクマ出没　市街地で目撃相次ぐ　福島 - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 37.760833,
+        "lng": 140.474722,
+        "date": "2025-11-28 02:34:00",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52b3NTWHRrZW1TWUluTmxCWHhsVTNHUkRhNGZEeVgzZFJ6NFh4cnpIVTJ5OXlTTUJZZHdxaDlCUTY2SEJhbUNDNkR6T3RjZmJvUU05SEpVVVZNWnlQSENRQVBQaGJjUlJnbXllZkluWlJGTC1N0gF0QVVfeXFMTnZvc1NYdGtlbVNZSW5ObEJYeGxVM0dSRGE0ZkR5WDNkUno0WHhyekhVMnk5eVNNQllkd3FoOUJRNjZIQmFtQ0M2RHpPdGNmYm9RTTlISlVVVk1aeVBIQ1FBUFBoYmNSUmdteWVmSW5aUkZMLU0?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
+        "id": "961836cea56be257e269b5e78d984098",
+        "title": "夜の国道で30代女性が目撃…福島市伏拝の国道4号歩道上に体長１ｍの熊 福島 - 日テレNEWS NNN",
+        "location": "新聞報導地點",
+        "lat": 37.760833,
+        "lng": 140.474722,
+        "date": "2025-11-28 02:31:01",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTXFqVXBDTHB0bEs0QW9PLVZuTFdjbzBGUHlRdkt3UnVaYWhBMlFvTzQzSjZFbnctb2dvMzVoM3hwa2tPYWQtQUNBb0RKbUxnZTZJYUpYaXRKTk16R0pwU1JrdGh1RmRRNHFkZkRwUzdMX0tDT2stUzJTX2tDS2ozUUpJdXBLREk?oc=5",
+        "source": "日テレNEWS NNN"
+    },
+    {
+        "id": "815fc3de6475116a1955d9e0501666d1",
+        "title": "新聞配達の男性が目撃、公園内に佇む熊…JR塩川駅近くで住宅が広がる場所 福島（福島中央テレビ） - Yahoo!ニュース",
+        "location": "新聞報導地點",
+        "lat": 37.760833,
+        "lng": 140.474722,
+        "date": "2025-11-28 02:26:01",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Felp5VE1qcUpZRmk3ZWdQQk1DOXBHMUw3cFhFaHZUZTJXOFZIcmtMUUdSZUsyWkxTSjd3ZVR5dW5fdzBnNXlkcXY3a1BBT1J5Zk5oX3piRmsxNFIzbERjQ1Q1ejNnckk2SWZWdkxFVl85cldwLTFfT25fVlpWY1k?oc=5",
+        "source": "Yahoo!ニュース"
+    },
+    {
+        "id": "d8997d37dcd8acb88c8b4cf8791ea11d",
+        "title": "未明の市街地で…福島市太平寺で熊目撃、体長は１ｍ 福島（2025年11月27日掲載）｜中テレNEWS NNN - 日テレNEWS NNN",
+        "location": "新聞報導地點",
+        "lat": 37.760833,
+        "lng": 140.474722,
+        "date": "2025-11-28 02:17:00",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZFYzQ2FfVnY4TC1CdjhPMjdNUXRnV3J2cFJJckJUYXVzWkNXZVc3WVlub1FSeGI5VFRTRC1GR3ZvS0thUUtIMFFNTnBnOEN4Qmx5eFhuRXR3MWVKc2doYWNnaUhCbEZhcE1SZ2cxVEVJUHl3RzZyOVpnckRyQkJOeFV6UzdVbWs?oc=5",
+        "source": "日テレNEWS NNN"
+    },
+    {
+        "id": "3d86663d65b28cdc1718201a25266d6f",
+        "title": "未明の市街地で…福島市太平寺で熊目撃、体長は１ｍ　福島 - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 37.760833,
+        "lng": 140.474722,
+        "date": "2025-11-28 02:17:00",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPREVad1h3Q0R2Z19sQ1lxVnluY2tON1ZqT0dfbTgwT0dRQkRndnlrTkpKMTFRU09BelExbGhYMF85QVNmc1VJRUU2SFJHQmtOQTJxaDY3T3ZqcDVBZmlJRDV3OFZWaTVhU0FYMllCU3R0V1A3M0FSTGstSnBzajJaY9IBgAFBVV95cUxPREVad1h3Q0R2Z19sQ1lxVnluY2tON1ZqT0dfbTgwT0dRQkRndnlrTkpKMTFRU09BelExbGhYMF85QVNmc1VJRUU2SFJHQmtOQTJxaDY3T3ZqcDVBZmlJRDV3OFZWaTVhU0FYMllCU3R0V1A3M0FSTGstSnBzajJaYw?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
+        "id": "df87edc87d3d867025203d2b70171bcb",
+        "title": "群馬・沼田の駅公衆トイレにクマ、69歳男性が足をひっかかれ軽傷 [群馬県] [相次ぐクマ被害] - 朝日新聞",
+        "location": "新聞報導地點",
+        "lat": 36.390556,
+        "lng": 139.060278,
+        "date": "2025-11-28 02:15:00",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54R2hkU1NJQy1sSjd4SmhkTkQ5SkktcmRjQ3ZZT28wMHhUN3ZtYlUyZ0I1T1dVZ3gzSEdRNlRBVHFmT2FGTmFVTFVVM3dqLWM1blBiYWhyeC04UlBWVHBnZ040Q3l6VWc?oc=5",
+        "source": "朝日新聞"
+    },
+    {
+        "id": "5094dd3cc38e19929b7200d06b3f40f4",
+        "title": "福島市の中学校近くで熊が目撃…体長は約１ｍ 周辺で複数の目撃情報も 福島（2025年11月27日掲載）｜中テレNEWS NNN - 日テレNEWS NNN",
+        "location": "新聞報導地點",
+        "lat": 37.760833,
+        "lng": 140.474722,
+        "date": "2025-11-28 02:14:00",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxON0k0N1VKOV95T182MEJBTE16TTZMUFd0Qjk3R2tGcDZaSTlWTm92Z2VYd3RKd0hGX29STUhMaElFV0JHcklkN3BLU1hzMWt0aDF2V1FOZm81MjdJd0I1SDhHS09QR3dOemhTSER0Z2JSNW5WMzFxdkJOT2ktUWxPWFdsX19TRGM?oc=5",
+        "source": "日テレNEWS NNN"
+    },
+    {
+        "id": "82037cf47a83c1e0a267e5e5663e1768",
+        "title": "福島市の畑に熊…農作業中の男性が目撃 福島（2025年11月27日掲載）｜中テレNEWS NNN - 日テレNEWS NNN",
+        "location": "新聞報導地點",
+        "lat": 37.760833,
+        "lng": 140.474722,
+        "date": "2025-11-28 02:11:00",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaktwa1Rmd3lGSDRMWU9LR2l4anVyM3oxWF9STWhkUnpERE5yOUtiUFdmU3Z1clhqak85dmo0clppY3dRU2xIV19QM18yVjNBUkNuSUp2dHBxdGxvc3k3OVNxOTlMcjNiYmlYbnEtMDIzMk9xaHNMOE5ILUZweUlRTklyc0RSZW8?oc=5",
+        "source": "日テレNEWS NNN"
+    },
+    {
+        "id": "3f7a3977ef13267acdd0aa5b976e2cb4",
+        "title": "福島市の畑に熊…農作業中の男性が目撃　福島 - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 37.760833,
+        "lng": 140.474722,
+        "date": "2025-11-28 02:11:00",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPanNtVjBHRjJfVUFGd3dKUTFfQ2F5WnBXMzdXQkpEU01sQmpia2l2N3hxUnZscjJiTFU3ZzBSdTJqRjNDeU1INXNsTkFEd3FycjZSYm8tY05zd29zanh2bUZ3RjAzS19NQlk5em1MSC1Yekc4Yi1KZDdMMUtzY2tHNtIBgAFBVV95cUxPanNtVjBHRjJfVUFGd3dKUTFfQ2F5WnBXMzdXQkpEU01sQmpia2l2N3hxUnZscjJiTFU3ZzBSdTJqRjNDeU1INXNsTkFEd3FycjZSYm8tY05zd29zanh2bUZ3RjAzS19NQlk5em1MSC1Yekc4Yi1KZDdMMUtzY2tHNg?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
+        "id": "c9896d27124a78abcb98d8646e7bdf78",
+        "title": "（群馬）前橋市鼻毛石町でクマ出没　１１月２８日朝 - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 36.390556,
+        "lng": 139.060278,
+        "date": "2025-11-28 01:35:00",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbzBGbE04RnVmanAyYlBSajNkZ1RfY2dpU2Exdkw5RUZKMDJsUEJyNW82Q1NNTFVCSi1kOEtEcTctSjAwc2NCc3RBeGZsNDIyUDhmWWx1QjlLSC1sTWJOZjVPUWlRM0pHX3JBU2hfVmxURE9STjljNFdCMGRJNzJIdjdRQzB2SDFQVVJiM0tRazdNNTFUeGx0QS1ORWLSAaIBQVVfeXFMUGU5cmtuS3JjUXNlYVVnVTBPcFRWNkd3RkhHcTJmdS11ZmRHNkFUR2p0Um1VS2JkRWROanQ0RHhQSzdGMzNWd0tmMV81VXRrZno0LVRKOVhhLWRzQS1ZNmk3NGdLcGUxYVJkWEhyS2t5dmFielB6Q2NrQXlza2Nldm5STFFGT3pUcnVOVUZuWUYxS3hlWnBFXzREbGVWU3NFczRB?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
+        "id": "cb7d80033208653217e4bf4532d1fdb3",
+        "title": "「クマが家の外に出たらいた」と住民が通報 小学校が約200m先に 体長約1mの成獣か 警察が注意呼びかけ 長野市 - Yahoo!ニュース",
+        "location": "新聞報導地點",
+        "lat": 36.648056,
+        "lng": 138.194722,
+        "date": "2025-11-28 01:14:01",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UaS00VHVpWG1FNmx0QTJuLW45TUt5RHIyWkI1TUZIb2xlTTNzYTctQ0o3ZXFFbjl4Vkxwb1AyeTc0R0tkLVNQX1pBUmdINU15WTR3bFY2cWZEYkR0aHRxb3RyQUcxQmlOX0t6VVNBWnV0THNqZW43VEVTazNIcEk?oc=5",
+        "source": "Yahoo!ニュース"
+    },
+    {
+        "id": "68a2c87d002f89f0614510acfc998d0f",
+        "title": "【熊出没】11月28日（金）福島県のクマ目撃情報 《随時更新》 - FNNプライムオンライン",
+        "location": "新聞報導地點",
+        "lat": 37.760833,
+        "lng": 140.474722,
+        "date": "2025-11-28 01:11:00",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5zUFdIX2xTNVhvNXNVdkdJbFQ1QTRDd0JHdzM5T1NvMTdqeWhsbk9EbnJNLUxqNElEbEdoQ0p5bmlnN1l4aXpDN3FidVo?oc=5",
+        "source": "FNNプライムオンライン"
+    },
+    {
+        "id": "53df94dd7638102340f46bc6effff6e1",
+        "title": "【熊出没】11月28日（金）福島県のクマ目撃情報　《随時更新》 - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 37.760833,
+        "lng": 140.474722,
+        "date": "2025-11-28 01:11:00",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdkNsZExvT0xLSzRQNWlxQTU1UXVTbi1CWDlJeWFmcFp0OUhOY0c2ZTQ1clNFeUUzUU9OU3RITnRPQ2wwLVZNbXFwcm1McFBmYmFOM2ZaNW9VUHQ4MGZVX1pCejhGN1JEcEFvY2doZ0ZUQ3BjbjdtSmdXSmM1UERMWVp30gGHAUFVX3lxTFA4aUFHQnU0YmNvOEQtQmgydkFZYnV2NGdkUHQwVnFvZ1BvQ09zRnl6YlVubkRNQ0lhZDZPQ0NJdkVtWUVGNjJIR2ZUZXVlTU1ncXhGc2VMTjRjQXpyQ3A5eGhfaGZLSlJQX1VnMHdhdzZIMkVSNm9tc0ttRUFBamFwYWpPekMyQQ?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
+        "id": "eeecc183a6ca08e0de3ec60c404e23b6",
+        "title": "JR駅前の公衆トイレ利用後にクマに襲われる 男性ひっかかれけが 群馬・沼田市 - テレ朝NEWS",
+        "location": "新聞報導地點",
+        "lat": 36.390556,
+        "lng": 139.060278,
+        "date": "2025-11-28 00:29:53",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9XTGcyZ2dtODdlQnpPYWxrUy1BWXBWMEJ5Z1Zlbkl4NG40eW93WXBvMzV2Q1ZJZmpydXlVSGY2Wi1fYkVZVUJWYmt0bWJGN2VJaWJfeEpGcWY2UnFHNmRnVUZ5bVFUeW5fb1ZpTThaQlVUdw?oc=5",
+        "source": "テレ朝NEWS"
+    },
+    {
+        "id": "a586c68a2b5474617133530f3cba2432",
+        "title": "【クマ目撃情報】11月27日 油川駅から北西の道路で1頭目撃（青森市羽白）（青森放送） - Yahoo!ニュース",
+        "location": "新聞報導地點",
+        "lat": 40.822222,
+        "lng": 140.7475,
+        "date": "2025-11-28 00:28:00",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95cVZrVm1Zb2lPRlQtZmp2d2ZONVRkQlA0UnE3dGJpZWNmbEd4emZnejdiV1hHSTU5d0JkUW5HT05JSElNYVlPMGF0U3Z4VndmZ0FmR0YwSTY4QTNuMUlmbFhxQUxpbGszU0hnVWc1WnVoM2JOZTlxdEhLY0xNMlU?oc=5",
+        "source": "Yahoo!ニュース"
+    },
+    {
+        "id": "8ee32db22ce52c6ee700dfac01a51bc5",
+        "title": "（福島）福島市大笹生寺町でクマ出没　１１月２８日朝 - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 37.760833,
+        "lng": 140.474722,
+        "date": "2025-11-28 00:25:00",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPa05NTndSMkVVcUpwRmNkZE1WMDljc0t4SDZRemNCRW9wOUgtX2JyVXNwakJCb1ktOFN3eDRQRGxHcWR0QzJuSXpha2thUnJUVngzRXdMZTltTUJxck1tSklVRUlidmVXODJXTHBDWUhERVVJMnFHQUxpaUktaWFQOVZrNGduVVljNFp4N283azVraFBXMHBiVmhkVy04bGxtMHfSAaIBQVVfeXFMT2tOTU53UjJFVXFKcEZjZGRNVjA5Y3NLeEg2UXpjQkVvcDlILV9iclVzcGpCQm9ZLThTd3g0UERsR3FkdEMybkl6YWtrYVJyVFZ4M0V3TGU5bU1CcXJNbUpJVUVJYnZlVzgyV0xwQ1lIREVVSTJxR0FMaWlJLWlhUDlWazRnblVZYzRaeDdvN2s1a2hQVzBwYlZoZFctOGxsbTB3?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
+        "id": "50b73eb9839d034cbf4a798ec53d5c22",
+        "title": "（福島）郡山市安積町成田兎田向でクマ出没の可能性　１１月２７日夕方 - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 37.760833,
+        "lng": 140.474722,
+        "date": "2025-11-28 00:16:00",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRkd5c05xNERKTjRtVm9kNGN6ZXJ6ejIwT2xSYlp6aXhRNjRJZERHSUlobFlOVzNicnhLYVVwTE1lYnRZZmpicTk1OENlNVExM3ZRbnJpNkRtZHZUY0MyVkEySFVoeUp2ZXRobE1Tb2pRZS1zellNeXNJZVhiNC1YQTNiSHlsQWZrdTZlRzNrUzNueU9YUFBDekVSU1FzSG1IYkHSAaIBQVVfeXFMT0ZHeXNOcTRESk40bVZvZDRjemVyenoyME9sUmJaeml4UTY0SWRER0lJaGxZTlczYnJ4S2FVcExNZWJ0WWZqYnE5NThDZTVRMTN2UW5yaTZEbWR2VGNDMlZBMkhVaHlKdmV0aGxNU29qUWUtc3pZTXlzSWVYYjQtWEEzYkh5bEFma3U2ZUcza1MzbnlPWFBQQ3pFUlNRc0htSGJB?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
+        "id": "cf25128d6aa93684b80ca26fd8cc6a8b",
+        "title": "（秋田）秋田市楢山太田町でクマ出没　１１月２７日夕方 - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 39.716667,
+        "lng": 140.1025,
+        "date": "2025-11-27 23:55:00",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ21hQmhJN09OSExlUTZBRzJQZHZnYklBdlpOWmJGTkhZdnhzMTZna1NlRE1rUnlITDBqdFBaMjFGYmtmdlFyZi1HcW14ZDZEQnBBdjdMN0x0U0dWc25XU3FDSUNxWC11aU1sZ0V6YVlZMnNTdUxaaG1MZzdLSlpsal9ONWU1dDU5bTFrQk4tdUZYdE1pVDMtYXZFY3DSAaIBQVVfeXFMTlViMjNsZEFNcG1lRUgxQWVzamgyMVkzQUNMUHlRQUltSTRxRDV0ZTBzRG85cS0wdWt5TjZZRWQzYkZHVWxqZUZ1RG80NE1FTlIzdnlNZDhTQ3JuMXNDRDZBZWFTNDZnRmc3XzZpX1JWSENfM1RSV2VqVGh3ZVEyNURCNHRzMzZsRVcwMFVONWFsX3kzT3hhaTJVbDg4emNyRWRB?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
+        "id": "ec1d221a5eda0b770dc8bd21ccf78ada",
+        "title": "（秋田）秋田市新屋松美ガ丘北町でクマ出没　１１月２７日夜 - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 39.716667,
+        "lng": 140.1025,
+        "date": "2025-11-27 23:54:00",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLWtodm9Dd3BkUDJlY3VJWUpvMGZURW1NV3gxUExzY1NQZW95VjZUV1F5OFFIU09zbkV1dERrXzFOS0k3a2N0a1hURGx4bVNYVnRlQ1ZGT1Z2UTgxX0lNMUZCVEVBZXlERmttUlVOeHJ2OFRHT3l1NHhmRzVqdzhzZ1lSbFBrZS1OYWwyeDNrQ0N0VGtwRzFaWkY1a1TSAaIBQVVfeXFMUC1vYnFPRDlybGJJejQ4Z0RUZUl2TFdySTBCZ0pNXzJBUlVoMngxYWtxMVBpVWRvTTNGb0djR005emg5c0d0Vjl0Y3JDSzVEeDhteTdoMm1QTGpJNmtnU2dPQzNBRDdVV2NMRkRXdnBmdnctZVZEckIwNHZKckR6SjBSRUwybnlzclZzQjBvNDlsTDlWS3lrYXk3MURVNzBtNDBR?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
+        "id": "c0f9e8b22d7f0cd106eee6ba499ad5b5",
+        "title": "（福島）喜多方市塩川町新丁でクマ出没　１１月２８日未明 - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 37.760833,
+        "lng": 140.474722,
+        "date": "2025-11-27 23:35:14",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaDQ3X1hka1VVN0lnTmNTTFRhdndiS3V1ZFd5U0xSdTlYRXhPbzN3M2FkaTdoWS04eENpejhRbjUydGJnd2NycVNZOHdrOERpdUJFaExBQVh6VWYzT0lLNzlaZHA1VDJSeFJkQ08wUWVTSTdwN0x3NFFuZjYzRV9vRUVwOWtMaHJjU2R4UWl2dW1PZ0t5YUJudVlxYWLSAaIBQVVfeXFMUGRoSVhZMERwdndrYjZUcGFQbEFPSzRQTXlqMWk2aVEzMnRoNWdvSkdhajY4UXRoY3lPeEhWTmN2QVdPWEItUnhCZ2lhMUdRMHUxQUNJVVVZZy1Vb3p0RUNkUHpzU3VUcjZmT2dlVllHSlJ0Q012MEE1RDBUYWU3SnN4STRRRVpXdGVUYTJ0aVdhekdJeS10c0RTaFN2Sk5NeEtB?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
         "id": "86a744b8549b4220a26073847a0c0435",
         "title": "クマの出没防止で柿の木など伐採 宮城・気仙沼市 - テレ朝NEWS",
         "location": "新聞報導地點",
