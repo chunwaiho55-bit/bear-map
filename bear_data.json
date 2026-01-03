@@ -1,5 +1,145 @@
 [
     {
+        "id": "f7d63f199061122b6b90a99a68c6c304",
+        "title": "（山形）山形市松原でクマ出没の痕跡　１月３日夜 - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 38.255556,
+        "lng": 140.339722,
+        "date": "2026-01-03 13:52:00",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeUdnbkNwUkdVeXZMV21jdWRrNFRGXzkzMVB0SmYxM3ZlaDRIb0ppaU5fVTl0X252czF2Z3BrMnFrTlNhY0FhUGFFOEFlTWUxWlNtS1VsdEFBZUlxclZEMUl1aDYzVFZ5TU1wN0hDQ1BHS1NaTktVYmZFY0lhME11WVBRaHMxZW9rcjZuT2EyVjRCWFEwM3c3VXZUZ0vSAaIBQVVfeXFMUDhFQW9sYmFKRTE0ZW9Kc0tlS3EybnRXQkVTR1N4OF9RYkQ1R1FSa09BQjhDd0lOb0hJdXZKV3pOOFQxTlYyQW9QdDVxOGZNRnlRTFdIbnM0SXNyUWU4NE5OV1lBdk9JR0RYbFBmcjB3SUVELTdCSmlrS2QxQVpyZmZjbUY4Y2xyUkhyY2hfVGZULVpicDRQX19wNVBadVFGTVln?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
+        "id": "72d6480c060fb93e3442681b912321c9",
+        "title": "（栃木）佐野市小中町でクマ出没　１月３日午後 - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 36.565833,
+        "lng": 139.883611,
+        "date": "2026-01-03 13:15:00",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVFMtdnNvMHRBSFEwUmhYLTVQRHVZVTdHcjlzWFBJQWNBTkJqNTd0WU54dllvZTdPV05UQ1pCelRHZjF0N2NiWkpsVEx3VVhPV3lJWk5MN1ZDaUlDbnE1emhWTGlnYjZXVUctYjQ4bjlqMlhHTWQ4cXoxQkpTalBYQVVicVRMczY5MVhrSjZVWHA1SUtuQ1VvS1NOdjfSAaIBQVVfeXFMUFlMQ0tEV1UwQkI2NEU0MTg1aGRjdE9XUFpSalFTTWkyUmNjZXc3VmFuS1ZWajB1aDJWd2k5OTlzTGJRY05MRnVGNXBPWTVwa0NaSHFXcVpGOTN6SXIzejlmUXk5SVRkVEhSN3dwT2o2NUhLRk1LaU4wcm9lSFl3c0ZZVXRpQWVvZVRPUUdhQXlrVG1CMVN3U3lYeW94YnZsNVdn?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
+        "id": "21adfa609ce5b9b3352cb1381be51faa",
+        "title": "南三陸町の畑で「生ごみあさる」クマ　年末年始に複数の目撃情報　気仙沼でも2頭のクマ〈宮城〉 - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 38.268222,
+        "lng": 140.869417,
+        "date": "2026-01-03 06:25:00",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9WWXFiV0R1TXdwUlpxOWlhZUhZMV9GeUJWYjdqcVlQNUFHZmpWem4xZk5IM3YzVXdjcWdnT0FGeDVQM25rNlJtY2V6NkZkbGdXbDk3VEhDb2JFUEdiZFY3N09wY0gxV3ZrNmROWUs5SdIBdEFVX3lxTE1RUkstS2JOZ3VmLTBGMncxeXlCOTlmcDgteVhucU5oWTZKb3lxZklNS3RxdGFNcHo5SEtUWGJtaTJfVVpFV1dQZUw4NTl1eUZ6MTZNXzgxVFV4OGhHUy1KQjd6OUUyLUFiZ0xXRTFCZHBXQTdv?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
+        "id": "829402b552fa2c4f969a276ab7c470f6",
+        "title": "（新潟）関川村安角でクマ出没　１月３日昼 - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 37.902222,
+        "lng": 139.023611,
+        "date": "2026-01-03 05:35:00",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUTNRSUlpaDlsMkxVZTF5REJpQ1JuYkVzMDFEajI4Q3VRSFJnczBDNXRiVTBTeVVXNWIzTmx1VDU5b1Y4eVc1ZWxOTk8wQTR4YmdFcnh0LWVkZjE0dU9MYjBHQWlEcFBnNnhqXzE2SVRlbUpCSXpfeGsyd3E0Z0tYd0hpemszNy0zeFBndGlRa1F1bmFYcW4tcWxtWULSAaIBQVVfeXFMT1cwN0k2YVdteEwxSmpPTl80Q3N6NGRBa3l2M1BKaWQ0R1hDdGJaTDY5eUE0V0h0R3BQdHp0NFAwMVFXUERFV29LV2tkRVlLWXFkb2ZjSGdMem52ZzJxb0t2T19QYlFObTJmQ3dRSHZDTzg5VG5OSWtZaHZZVWNJSXBHekdtWUFGWnE0UmE1WU55R0R1Nld1aG5IWlA1OWJMZHpn?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
+        "id": "df81482ebafd76ecc38086eaec9b199a",
+        "title": "（群馬）安中市松井田町横川東でクマ出没　１月１日午前 - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 36.390556,
+        "lng": 139.060278,
+        "date": "2026-01-03 05:15:00",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTmxWZFlSZC04TFdtYlRQam5QS25DRHpXUlp3cHlnTW12eVgxWVc0Vl9tR3FBZ3lKU3BxZkFPQzJpOEZnTUsxck84bWlpQU1yZWpHQ3dpbmFwbXpJMW4zUXRsbVlfLUppeHBFeGRja2ZfZ3Q4dnB5T0psQW1JeTlzTEJwNWxYNjNoYV96VnplNjlPSmZaZjY2VGx3OUzSAaIBQVVfeXFMTV9zbWJDMXExNkNUX1F5SmNHbnljemd4MUxWX1h2QmZ5ZEJuTlprR0ZMRmU5Ulc4bVBMZGhYWEd4dmdPTmZBbkJXSXc3X0dJbm1XTERuLUhHdm50cjFMcUtVUF9fSWd5cnR4S1h1V0QxbndOZ0RUeVMwTEtOSzI3TkNVTTRKVjZkSVN3SjhDNmlNRXJZRkUtbUJpYWUtOWdiazl3?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
+        "id": "481809737f6cae87a47dde7fa7260a74",
+        "title": "（群馬）安中市松井田町横川でクマ出没　１月１日午前 - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 36.390556,
+        "lng": 139.060278,
+        "date": "2026-01-03 05:15:00",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNX3NtYkMxcTE2Q1RfUXlKY0dueWN6Z3gxTFZfWHZCZnlkQm5OWmtHRkxGZTlSVzhtUExkaFhYR3h2Z09OZkFuQldJdzdfR0lubVdMRG4tSEd2bnRyMUxxS1VQX19JZ3lydHhLWHVXRDFud05nRFR5UzBMS05LMjdOQ1VNNEpWNmRJU3dKOEM2aU1FcllGRS1tQmlhZS05Z2JrOXfSAaIBQVVfeXFMTV9zbWJDMXExNkNUX1F5SmNHbnljemd4MUxWX1h2QmZ5ZEJuTlprR0ZMRmU5Ulc4bVBMZGhYWEd4dmdPTmZBbkJXSXc3X0dJbm1XTERuLUhHdm50cjFMcUtVUF9fSWd5cnR4S1h1V0QxbndOZ0RUeVMwTEtOSzI3TkNVTTRKVjZkSVN3SjhDNmlNRXJZRkUtbUJpYWUtOWdiazl3?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
+        "id": "6753bc21c3b4915d81eea3b7003e7c3b",
+        "title": "（北海道）厚岸町愛冠でクマ出没の痕跡　１月１日午後 - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 43.066666,
+        "lng": 141.35,
+        "date": "2026-01-03 05:12:00",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOX0hXMWNRYXo0SEg3ejFSX1VZSVVLYjZwU2pjblQzWkk3czZQakhuT0NTOUo5ejN6UThjWlpRSkUxWm5TQi1xTjNzb1pLVzN5TVR5eEoyX01Qa1laRFJPSS1BdjczZ0VpcUp3Z3Rod0hqeE5WY3lTNy1xVTFYMkdKRXVQUlloQ0JjTE9DVDZuSm5RdnRkOFJwZFFPalTSAaIBQVVfeXFMTldCYkRkYkktbjBfdWlHVXlNNFRXRjlpRXVFcUlLeFF6V0VqdTQyOGY1VWxZRjFxSlNCRG0zRlFubDZvUDRaSzIyWUxZTmMtczhHbGJZRlNsQ3lEMXhMWGpyVzVMX2d6ZE5yczk0aVBPbXRoeVlfMjZQWUI2dTFxUmtaNVdRblFZZTBaRDE1Sm54akRJUE9nQXRVZ2VjMnMzZ3ZB?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
+        "id": "ea527ea3815eb9baf08da398c4d1749b",
+        "title": "（山形）山形市片谷地でクマ出没　１月１日夜 - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 38.255556,
+        "lng": 140.339722,
+        "date": "2026-01-03 04:57:00",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdGtkMlhvbDVzYS1qMlF5ZmNUbFV5X200YUlLbV9DVHRROXUtMEFXUlB6Ym0zQnJ2cHlxWkZQNlg1cGJfNDVzdHBGQXlCdm9QMVc0YlBHR0I1cXpwZ2pDU2dBVVdwRmJuekk5WmRsX3ZMNTNwRGd6S3J4aldta1J1RzU5WlYxU0JSa2lxdV9CWmFtNklNTjg0NTRIX23SAaIBQVVfeXFMT1JQSkJQXzc2SEV6UExzcFFkemtsLXFqWmV4ZVBBLVNTQjZNdmFBQWUya3JQZk5oZUgtU3Z0cUFxM1hITUZRQUR5QngyT19mZFVHYVJHMkR2dkFsQkcwTTYwSWxOLUNIbE5nMzZaclhtSTB6NVBIWTZxRFBpenV1R1lURXgweE54QXB4M0x3VGlucHZCSktaOGNIOEcxNEEwTnRn?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
+        "id": "331204c74fe8a42c521bcce0553af572",
+        "title": "「道路上にクマ」住宅付近で目撃情報　新潟県内は「クマ出没特別警報」延長中 - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 37.902222,
+        "lng": 139.023611,
+        "date": "2026-01-03 04:57:00",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5JemlKOW9YUHgtejhpM0hrUE16eXA5ajlKeHVHSXBQVzBvNWVfN202SFpndUNqei1YVExZTFJWRXVDeXVDa3pxd3FVcWNENzUxTGVxWlIyM0NiQXRXQmZaTE11TVNsdDhheGQxRTN5Z9IBdEFVX3lxTE9XX0ljSXFRZWpXTG9ITzNFXzZZaDJLRnVHWHZKY1JLek5kODRuWkxSck1QVS1iQk5xcGdZS2h6M01lT3FENmlNdzZTSFJ2SHJWblVYdnlETkdPUE54NDZzVmZsWEMwS1hvZU85bkNDeFl2NnVP?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
+        "id": "f31cf9e8abeb93d815abf14958e3afb6",
+        "title": "（福井）福井市市ノ瀬町でクマ出没　１月２日午後 - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 36.064722,
+        "lng": 136.219444,
+        "date": "2026-01-03 04:28:00",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeHVRNXRHQzE3cnU1NDlDWlVzczRRWXVrTUM4ZW9MU0c4dC1Na3RkeVh3bzQ2WmJYUW9FNFJUOFRMTUZWbjBlLVdtODhHQ2tpWXhBd0thWTU4TGxvV0dCV0tTeHdSMFJtbHdjckFITXNoY29YdEpPYTdTQ1Vpd2xXX0t2a3ljQ0hWdGdYRU5HanNBYzVvMVFfODBBYkXSAaIBQVVfeXFMTWlnVmZjY1MzM0E5WGF5UU1UUS1BbDFrODRydjJIeG9oalA0SHg3VDZtZXpnTXlwRHdNdlgtQVdEMERUM1AyNk94UzNvSlA3UVFCc0daVmlfTHk0NDdPMUZraU5pOVhSMVNpd3FHTTM0TzJGWThpZjFZV3h6MTMyb3dfanBWRGFqVGcwMmVXYnhseUo2V2hHaUQxeW1aS2VPUGRR?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
+        "id": "cbc6ffa24278bc4861088af119407bb4",
+        "title": "（群馬）渋川市川島でクマ出没　１月２日夕方 - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 36.390556,
+        "lng": 139.060278,
+        "date": "2026-01-03 04:18:00",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOE93c1cxemI5eGtKUmdLb0IwSUwydFE4YzRfaEtaVUItZi1MdFo3VXZxbWRIT0h0R0hNOG9TZkdsRXhDRlYyY29WYU9sVTRXMEdlZE9pMW4tM1VtTThBMEFZTzdWMXRBZ2pmWlZSSURoQmo4a3Rsa0FqRVVWcy1WOUNxUVljc3NCNmZWRU0tWElPbFFfcnJXS0JrRnfSAaIBQVVfeXFMTnoxSE9obVRLbDJqSzBUYW45eXhWMFk2ZEYzQ2FadE1DMm1KYzZaVV9pRjRTRzczMGFPa3VsNzFtb1g1R1FLcE5Hb2k3eE9TWno2VXVGSlZZMkVobTFDUWJuRU5kOFFsTDREQURrUFZPLVQ5X1Bfak5hQ2FVVWZzTU1EbFZSQXgtam9CSXJZc1RzVk8zTkJ3azlEd2VZcVZwb2VB?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
+        "id": "c0718f69285762fdd5258e54cc0d9089",
+        "title": "［熊目撃情報］関川村（1月3日） - 新潟日報",
+        "location": "新聞報導地點",
+        "lat": 37.902222,
+        "lng": 139.023611,
+        "date": "2026-01-03 04:10:00",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmWWFLbjJMNlB6anVXRk1KYy15clNoeXZxR0FoaEF2SjlfYjJLclhkWDBoT0xZNGV6OXo5S1N3M0p4YTk1YXdLM2Q3bFFObXJPYmJZa0FSTnJLMnRzWFE?oc=5",
+        "source": "新潟日報"
+    },
+    {
+        "id": "b90b8b7d1f5fbd78e614ae81c7b9923f",
+        "title": "（群馬）中之条町西中之条でクマ出没　１月３日朝 - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 36.390556,
+        "lng": 139.060278,
+        "date": "2026-01-03 04:04:00",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOX2NvQ2tMNkl2R2swVlY1WGtXY09sZExBM2luZzlOQmhabDMxY0R0ZXYzbkVVaEFmLU1hbDJvS01XUVpQdnFacEk5ZjREdHpKeGcwNFpuMHNCSzE5aWMwc2hWTFpEUi1EUERmQkZhOUc0T240c2ZRMEJiUnJaNW44OUlHamQzSU41ck9hOW1JMnJLSy1OUXV1V2JqNU3SAaIBQVVfeXFMTnBwNXV4NVpRQW5LVWRrZXVDcnhHaHNKenNDOExSWWdHZXlZamR6M3g0MmRISmJWNW5BM2pmZXIxMTBhN19KVHFkYUhCV0I4ODZ2N0puT1hQVDRJZ0d0WXlkOGxCVk1YVWduR1RnT0VWeXYtc21YamlxRlN4bUYtYXoydjdxOXJpcHdjYmRSU3BVTVhZdjZCTXNOQnV0dXdydm13?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
+        "id": "269efadbe41bf649737530913b04bb0b",
+        "title": "南三陸町歌津の畑で生ごみをあさるクマの目撃情報 宮城（2026年1月2日掲載）｜ミヤテレNEWS NNN - 日テレNEWS NNN",
+        "location": "新聞報導地點",
+        "lat": 38.268222,
+        "lng": 140.869417,
+        "date": "2026-01-03 01:20:00",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTFZIZ3VJdHd2TG9LU2NLSUVybGJzNnpEWkZRVXBTSWdHd1JwdFZ1TkZUdkp6LXJETkYyWmpYZXVsNGc5RU5FdDZrZEl6cnIyWmdxQ2JDc09hUmRMQ1c1d2NwVXFBOVcwRm81QjhiQ1FmNnJNTGFBMFc0WVNIRVZvNzY4UzhWWUk?oc=5",
+        "source": "日テレNEWS NNN"
+    },
+    {
         "id": "e0b8d55ca09fbcef43f14f75a86cce63",
         "title": "県内のクマ目撃件数は2800件以上に　県は注意報を発令し引き続き警戒を呼びかけ（山形） - ｄメニューニュース",
         "location": "新聞報導地點",
