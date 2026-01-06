@@ -1,5 +1,125 @@
 [
     {
+        "id": "2c22a78e379cc50b122d76896f7e3d11",
+        "title": "（福島）郡山市片平町寺下でクマ出没　１月６日昼過ぎ - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 37.760833,
+        "lng": 140.474722,
+        "date": "2026-01-06 13:20:00",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOclQ4LWl4eUx3alRLUDNqbmRSVURHWUdXaTZEVEpZdWdRV0pGMEJrVUtpRGxudkl0NTdLRWtqb2ZTdklHakw0SndQcmxHWXY3X3NaSnRYMEFmOEpXNmVUTE8zUjZGTGZrcEJwSUZPV2hJZTZScXpyWlhqN3hMbjVRUlF6Z2NFN2l3THV3VmM0c0RlUDhZLVhrY05yWkc4UjIyelHSAaIBQVVfeXFMTnJUOC1peHlMd2pUS1Azam5kUlVER1lHV2k2RFRKWXVnUVdKRjBCa1VLaURsbnZJdDU3S0Vram9mU3ZJR2pMNEp3UHJsR1l2N19zWkp0WDBBZjhKVzZlVExPM1I2Rkxma3BCcElGT1doSWU2UnF6clpYajd4TG41UVJRemdjRTdpd0x1d1ZjNHNEZVA4WS1Ya2NOclpHOFIyMnpR?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
+        "id": "df33f7c12aca07d8cfd7d1d337205ba4",
+        "title": "【クマ出没情報】墓地で1頭目撃　福島・郡山市片平町　6日午後1時すぎ - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 37.760833,
+        "lng": 140.474722,
+        "date": "2026-01-06 09:40:00",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94T3JuTGlBb0tFTnRUYnkwYzhCWkRBem1JYmRUZURsUmtCcm9YZFEzTzBIV1N0THNOUm5Gd0FsV1JtS3Fvcnlsa2FhODE3WEtuREszWU93RXVNU3RoOENTQlJ6anZrQ2lwckU4Tm4yTdIBdEFVX3lxTFBic3hfUVh6TjlvRmhPNm91STZvTjNiN0xkQWd3dlk1cW55RjJCRmxGZmZPWF96cEdNdGpsVmJuLXhHdEQxYlVBRi1paFE2alQzNFpQSlhrQUUtQXQ2dWVGMV9jOWM1RVNCeFVyV1RkY0RrMk5q?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
+        "id": "5816bb854a6dde1b353b17445bfdf523",
+        "title": "【熊出没】1月6日（火） 福島県のクマ目撃情報 《随時更新》：ニュース - FTV 福島テレビ",
+        "location": "新聞報導地點",
+        "lat": 37.760833,
+        "lng": 140.474722,
+        "date": "2026-01-06 08:23:00",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5DSEtpcElGM2xSV2NsU3hCeGxqMExxN1lXSDhWRUs0bDd6RGdlMTdEUVhqTWpTLXEtd3JpZ1UyVmo5SEZodzhyTWZmMkEzRWxWX2d3WDVYNjFBb203RDhzYVJVODdYLTNFM1BSeUxjRU5TS0E0Yzh5TGRR?oc=5",
+        "source": "FTV 福島テレビ"
+    },
+    {
+        "id": "2f0c88d7c1af9fdbd5bb531ef8c497f4",
+        "title": "【熊出没】1月6日（火） 福島県のクマ目撃情報 《随時更新》 - FNNプライムオンライン",
+        "location": "新聞報導地點",
+        "lat": 37.760833,
+        "lng": 140.474722,
+        "date": "2026-01-06 08:23:00",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBNWnRRVGNHQlpac3Z6YTVRQnQ4ajNObHo3blkzWElsTWhHZGd3N0JGcXJHajR0SlNzaHNoMWFsblc1VjBtMG56anlPS0k?oc=5",
+        "source": "FNNプライムオンライン"
+    },
+    {
+        "id": "b5b61e6bb38b0e9ecfa46f7b49729ef7",
+        "title": "【熊出没】1月6日（火）　福島県のクマ目撃情報　《随時更新》 - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 37.760833,
+        "lng": 140.474722,
+        "date": "2026-01-06 08:23:00",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUFN1Y2xRQ3pGRXE2bXFra2ZDZzlmVmxxQ1NhVjVWSHhQTldLVWYwTEpMLVNsNzFuQUJsdDdDT1dqbVdRc0JlR1VLMHNVMkcxUjZPbUY3cW02RUdSdENDbEZQUXdHUkJJZzRlQl9BcW9TSnVTVk55X2ZpY0Z5Q0xzd0VR0gGHAUFVX3lxTFAydmJHbWZpcEVfODM1MTlnME9uU1Zfc3hRb09RX0Z4Q2ZGb0hLTkQtU2szTnVzTkFhb3BKZ3VhSGx6OGxBV0JDRzBRQ1g5MUdoUUlrY294TlI5VEIxYlhfY1RiczR3UVpGMzlweDR2eU5MQnZPN2dFRy10MEJXbU1pTnhSZmRnOA?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
+        "id": "004beb7d4f26eee2c0d2bcfc224e1170",
+        "title": "郡山市で熊の目撃 周辺には住宅街や学校も（福島中央テレビ） - Yahoo!ニュース",
+        "location": "新聞報導地點",
+        "lat": 37.760833,
+        "lng": 140.474722,
+        "date": "2026-01-06 08:12:00",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92RUpyc1hDb1hxbXkyZG9TeUVCdjlvQ1l5RGdmQXYtOWpSS1dSSmM3SGdzRjFRUXItX0pvS0pZQkpjUHJEeG84SXdYU0x5NWU4Q1NPRkxCeDVzeTdIY2ZtRjhvNFRIVGdURTVyb1d6SFkxeXBRYWhSMHN2X0lCb0k?oc=5",
+        "source": "Yahoo!ニュース"
+    },
+    {
+        "id": "27b9838f9e1b620c0cb34caf55d7c1ca",
+        "title": "【クマ出没情報】1月6日 松館バス停から北西で子グマ1頭目撃（八戸市松館）（2026年1月5日掲載）｜青森放送NEWS NNN - 日テレNEWS NNN",
+        "location": "新聞報導地點",
+        "lat": 40.822222,
+        "lng": 140.7475,
+        "date": "2026-01-06 06:48:00",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLTNlNzk2dE9sbHQ0ZFVJSFdWZkFKUkFqMTE2djExU1Y2WDI2MXcyMmlRbTY5RjVoWVFYdEx3VWJUQ08zSW90TEtrNm5WZEJvNlpheGpYNGcydDNyYXhDNFFIeHJCYnlSSHNlUHphSnV4bHFOMW8wZWNRUmNvOVJqcW02YzdEYVk?oc=5",
+        "source": "日テレNEWS NNN"
+    },
+    {
+        "id": "cfecade0349caf37a8f4efb8f75ed975",
+        "title": "階上町でクマ1頭目撃／青森県内今年初めて - 47NEWS",
+        "location": "新聞報導地點",
+        "lat": 40.822222,
+        "lng": 140.7475,
+        "date": "2026-01-06 04:00:00",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5HaG1QaGpMZ0R1WGhRSU1wZVNSQVVVLU1xbk5RZXVTNHlzOEpsYVVOS3ZBZ3FDUlRIeS1nUXh4QndDVU1XS2ZGLWVlQQ?oc=5",
+        "source": "47NEWS"
+    },
+    {
+        "id": "a66127c060c983af1e2690ac9ba095c6",
+        "title": "花角知事、今年の漢字は「駆」原発再稼働問題、熊対策、病院経営危機…「県政をスピード感持って進める」 - 新潟日報",
+        "location": "新聞報導地點",
+        "lat": 37.902222,
+        "lng": 139.023611,
+        "date": "2026-01-06 02:30:00",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uY1BYd2F4X3lYRVB6NEZTeFQtR1RKbFpSQTJFc2lWb3J3U3BwQ3QwLS05dHUtQ1dPSmgwN0FEMGZGTVdtdEdBMS03Y0lzaXZCbml3VkxVcG5nYjhLQnc?oc=5",
+        "source": "新潟日報"
+    },
+    {
+        "id": "e5f203f3ca664936d34906647bda5fa3",
+        "title": "福島県内、２０２５年の熊目撃過去最多１９７７件 人身被害前年比１７人増（福島民報） - Yahoo!ニュース",
+        "location": "新聞報導地點",
+        "lat": 37.760833,
+        "lng": 140.474722,
+        "date": "2026-01-06 01:47:26",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12bUZCVWFObkp4ejZ4X045VG1PUmo1S2lDSGV5WWlCM2FXS0VCbmR4VmxkRE00WW1EeTdjMzdYSHR0azNRaEZrTWNSRzBQMDF1ZXVPcENPWVBib2kyRXM3bkRIOHl0VFc4N3R5T2FrQzVGYXFLY3lFbmJMZk4xWU0?oc=5",
+        "source": "Yahoo!ニュース"
+    },
+    {
+        "id": "4eee40ac7f9eeb2d67bd4f50eb645829",
+        "title": "福島県内、２０２５年の熊目撃過去最多１９７７件 人身被害前年比１７人増 - 47NEWS",
+        "location": "新聞報導地點",
+        "lat": 37.760833,
+        "lng": 140.474722,
+        "date": "2026-01-06 01:31:56",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9TVS1IeENHVVRJY3VUdldVYjQ1S3plSEdaN0NTckVDMTN0anNCeDZrbk1BcXFHbkpuelhmSW5xalh4ZWVfVXp6d2ZxUQ?oc=5",
+        "source": "47NEWS"
+    },
+    {
+        "id": "23bb8b2a035e471d042bd813527678f1",
+        "title": "福島県内、２０２５年の熊目撃過去最多１９７７件　人身被害前年比１７人増 - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 37.760833,
+        "lng": 140.474722,
+        "date": "2026-01-06 01:31:00",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMkkzY0I1NkFpNU05cEZZb2trRkVYZWExS0tVUmM1ZV8tZWs2TWlxQ3VlWUEwMDRmbGt3U25NeGswSnl5WnZNTXNTbWlMQTJrWFBUYld6Ml9BeWRVWUNKS2VfWExINUIxNFAwaXFlZk1SQWhrRnhoTDI5aFNCVUh1LVN0dHc3d9IBhgFBVV95cUxNMkkzY0I1NkFpNU05cEZZb2trRkVYZWExS0tVUmM1ZV8tZWs2TWlxQ3VlWUEwMDRmbGt3U25NeGswSnl5WnZNTXNTbWlMQTJrWFBUYld6Ml9BeWRVWUNKS2VfWExINUIxNFAwaXFlZk1SQWhrRnhoTDI5aFNCVUh1LVN0dHc3dw?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
         "id": "13113e0952a7471312ba45165f645209",
         "title": "（福島）郡山市中田町高倉下川原でクマ出没の可能性　１月５日昼過ぎ - ｄメニューニュース",
         "location": "新聞報導地點",
