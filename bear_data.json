@@ -1,5 +1,55 @@
 [
     {
+        "id": "0b9a58fd3711406e44469f4225e8f5e5",
+        "title": "なぜそこだけ熊が出ない？新潟の熊出没マップに謎の「空白地帯」… ついに海を渡る可能性も？（新潟日報） - Yahoo!ニュース",
+        "location": "新聞報導地點",
+        "lat": 37.902222,
+        "lng": 139.023611,
+        "date": "2026-01-08 21:19:02",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wT1VRR0s0WjRsQ3hfSTBYV2tpYlFSVVFmODFScGlwbDVPdzBoN1VSNk9faFFjRmRjS0ZvbFY3eFFWR3JsYzk3cHpSS1VWRTV3ZmhxTnFIbzBsYUdoVVRTODcxRW9pSGttNzNkcjYxTlJLVXZ3SGNUc0lhbEhHNjg?oc=5",
+        "source": "Yahoo!ニュース"
+    },
+    {
+        "id": "ed4872b10904abda108fa7400479a68d",
+        "title": "『熊はどこにいるの』で谷崎潤一郎賞 盛岡在住作家・木村紅美さんが掲げた「予定調和を破壊する」 岩手 - FNNプライムオンライン",
+        "location": "新聞報導地點",
+        "lat": 39.703611,
+        "lng": 141.156389,
+        "date": "2026-01-08 21:00:00",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1GQksyUlZ2dng0R2pXRVRtdFEzaDRMS1Y3LW11cHRyYlY5MXlHQ1Zaa3RXcGZweDRSRHZNa1NRajNXank3bGZaa1E2WlY?oc=5",
+        "source": "FNNプライムオンライン"
+    },
+    {
+        "id": "c09ab18cfde65d438c0d173119c85fea",
+        "title": "宮城の熊目撃情報（８日午後10時現在） - 河北新報オンライン",
+        "location": "新聞報導地點",
+        "lat": 38.268222,
+        "lng": 140.869417,
+        "date": "2026-01-08 13:25:50",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WaGlWODlpd1U0Y0ZkMWZuOFNEUmdJVjRwZk1GbVhCcFctRjMyUk1Tbl9ianJJVVZfWmJoTWMyNUx2WmQ0VVRhZ2pRajBwOFhfcFZQcUFNM09XaVhFT2Q1bQ?oc=5",
+        "source": "河北新報オンライン"
+    },
+    {
+        "id": "9b4492c0473fc45209b541c5a7ceb49f",
+        "title": "クマ目撃、盛岡市西松園 - 岩手日報",
+        "location": "新聞報導地點",
+        "lat": 39.703611,
+        "lng": 141.156389,
+        "date": "2026-01-08 03:36:00",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGcmZyZjFlRnM2MGNiYXdURXpfTWREUEJhMG9KcXhJRmNlclRFalplOFg2bWE1X0xuelQyU01HYlRmX3dQYmxZN1FwNUwzQjBHME9EYXg4OVJUcXY0YkVJ?oc=5",
+        "source": "岩手日報"
+    },
+    {
+        "id": "5ebdbc39602d109f583e34208d0b1667",
+        "title": "［熊目撃情報］妙高市（1月8日） - 新潟日報",
+        "location": "新聞報導地點",
+        "lat": 37.902222,
+        "lng": 139.023611,
+        "date": "2026-01-07 23:55:00",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SZjZCelp2aGtSSV91RU80VXBxVFB2dGpReWZBYlpJOFNHdXJyZWFqbVd0YW5YZXR2cEJRRlloNll0cnhhOWlYSXE5MlhTV0w1V050OVVKaVBKQ1YyV2c?oc=5",
+        "source": "新潟日報"
+    },
+    {
         "id": "7afc570371a1299d54078664ce383d7c",
         "title": "（群馬）桐生市新里町板橋でクマ出没の可能性　１月７日夕方 - ｄメニューニュース",
         "location": "新聞報導地點",
