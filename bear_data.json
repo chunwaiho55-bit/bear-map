@@ -1,5 +1,55 @@
 [
     {
+        "id": "f8f95835b2ed0616fd1b8973991b03a4",
+        "title": "クマとの共生テーマに 富山ガラス工房 クマッタ展、オブジェや箸置き４０点 - 北國新聞",
+        "location": "新聞報導地點",
+        "lat": 36.695278,
+        "lng": 137.211389,
+        "date": "2026-01-22 20:00:00",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBuaGE4OFJ4MS1rY0Q1V0I4ZXk0OVRjUEd2dTA1aVlfaW5fZzNheU85OHB0ZS1aSHpsUW15bHRZeEN3YnNqOXVyRkpDTS0tRC1JRGJjNDYyWQ?oc=5",
+        "source": "北國新聞"
+    },
+    {
+        "id": "2185fda26afd7a5c5b170a69f1b71003",
+        "title": "【熊出没】1月22日(木) 福島県のクマ目撃情報 《随時更新》 - FNNプライムオンライン",
+        "location": "新聞報導地點",
+        "lat": 37.760833,
+        "lng": 140.474722,
+        "date": "2026-01-22 07:25:00",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5IMk45c3lmWW00Y2stcDdSQUxFeUowZU1Ga2tzTzAwVlhZT0tEcmJqNVJ3TVB3X2g2MVgtOG96YWxpRmlCVFB3d3llVDE?oc=5",
+        "source": "FNNプライムオンライン"
+    },
+    {
+        "id": "fb97a1658566b846f415bea31c823d59",
+        "title": "【熊出没】1月22日(木)　福島県のクマ目撃情報　《随時更新》　柳津町細八で山林に立ち去る - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 37.760833,
+        "lng": 140.474722,
+        "date": "2026-01-22 07:25:00",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVFBaVDYxdmViWmtkSnBlNVJ1c0c5aDl1YUZmTG1oLWRoYW5PajFLQ2prUXhHZlhpNzdSMC14XzhBMVVzZlpWSDNZNjlWa0FxWmpIcFNnVk9vQ3UyakJ5UWl3Z21ZMGlGc1NhNVE5ckFHeG53QjJsRjlZbHI5OUtSbExGejVfVm_SAYcBQVVfeXFMUFRQWlQ2MXZlYlprZEpwZTVSdXNHOWg5dWFGZkxtaC1kaGFuT2oxS0Nqa1F4R2ZYaTc3UjAteF84QTFVc2ZaVkgzWTY5VmtBcVpqSHBTZ1ZPb0N1MmpCeVFpd2dtWTBpRnNTYTVROXJBR3hud0IybEY5WWxyOTlLUmxMRno1X1Zv?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
+        "id": "11982bd50fb1763b49131e54d6cf4958",
+        "title": "BST株式会社、熊の市街地出没対策として、 宮城県仙台市の中学校とAIカメラによる実証実験を開始 - newscast.jp",
+        "location": "新聞報導地點",
+        "lat": 38.268222,
+        "lng": 140.869417,
+        "date": "2026-01-22 00:30:00",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3UmxFMlhIWjZ0TTFIbEZvajJ0Wkc3M2pNNlctc1pseXZuOWppQm04LXZMWXdSZklWSkNuZlFFTFNnWmVINmsxbFVaS3hiZ0k?oc=5",
+        "source": "newscast.jp"
+    },
+    {
+        "id": "a1f24b5740fedebfd62595cc736e7223",
+        "title": "BST株式会社、熊の市街地出没対策として、宮城県仙台市の中学校とAIカメラによる実証実験を開始 (2026年1月22日掲載) - ライブドアニュース",
+        "location": "新聞報導地點",
+        "lat": 38.268222,
+        "lng": 140.869417,
+        "date": "2026-01-22 00:30:00",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VYkc5eGpQWFU3Y3pWTlpDcDBxUWF1cnVNclkyc0Rhalp0c1VXN0pUc0ZFdTVXOEVyN04zTHV5Sl95NTMzTDJRTEpNLVBOR3FRb2VldmJMYUJPMHVDWUNuZm1n?oc=5",
+        "source": "ライブドアニュース"
+    },
+    {
         "id": "5a0672c2ad91b2f83d8d71931b25006e",
         "title": "（宮城）仙台市青葉区花壇でクマ出没　１月２１日夕方 - ｄメニューニュース",
         "location": "新聞報導地點",
