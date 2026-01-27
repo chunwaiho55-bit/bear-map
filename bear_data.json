@@ -1,5 +1,95 @@
 [
     {
+        "id": "eccd1a65e0c2a4b47857762471f17826",
+        "title": "真冬にクマ、福島県内で目撃情報相次ぐ - au Webポータル",
+        "location": "新聞報導地點",
+        "lat": 37.760833,
+        "lng": 140.474722,
+        "date": "2026-01-27 22:50:04",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0xajZ4NjFGbW00Y1lJZkh2ajVMYmpjVHBGVlBIdlJSTGN6RWtsWk9LNHRlZUx2U3hzb2s5X1JTaTBHeHZJREhQOTI4S2RzZXBLd05KWWplbFRBNlJheEdSSXAtNzZ1cDIxWHRJRk5rRE9ZcTlTczhMWkdtTQ?oc=5",
+        "source": "au Webポータル"
+    },
+    {
+        "id": "ff67ac2cfb6d41308abaa24f249f4b10",
+        "title": "真冬にクマ、福島県内で目撃情報相次ぐ:福島ニュース - minyu-net.com",
+        "location": "新聞報導地點",
+        "lat": 37.760833,
+        "lng": 140.474722,
+        "date": "2026-01-27 22:43:26",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1KVEw0ZDRsNHhJZ09kc0pYeVNJM096UG81Q1lnVDRFUXJHYVZ1WDBnWWcyYzRGY1ZOZ3BSYWcwVUZlb3BNYlp2UFppUWt6dG1jYmN4N1JXcFYxOHY4M0VpeGhHMW9ORUFm?oc=5",
+        "source": "minyu-net.com"
+    },
+    {
+        "id": "786075b8e51b6cd923c600a68c79dcf1",
+        "title": "（宮城）石巻市北村でクマ出没の可能性　１月２６日昼過ぎ - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 38.268222,
+        "lng": 140.869417,
+        "date": "2026-01-27 13:32:00",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaDkyelpFbHFmYVh6a1A5SF92bDJyV0VVQ0RVZ2RLcWdjc1NjYTYxYUhkUXN0RXItUkV1ZURwQzdwcDBicEdsdEZVQVJseThObEJFZExpWjBxbTdjUmRlU0JteGxWUF83RW1CM25YNWMwTkR2M29NcXJGQURiM2xzSHh6SUIwdW1vVmw4YkpGTm9ZRlJfU0JhZGtNOG_SAaIBQVVfeXFMT1lEV3JlTTE3dV9yNUgzUHpJWTdvWG9iWTV3cjNOdzVmRm9lVVpxenludGZvMlgwbHNlSWRGSWlpUmlQZk1PUHd1Z2lDaUtCaTFLbWQ5Q3Y0QmozZm5mQkFKdk1ZelJtUS12RXZzS3ZRTlpMdmFfeGVvZlVBR0VQbkkyaUNqZi1sUlVLZFgzSllreVlITDVVTkhmNkhIaFR5VndR?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
+        "id": "c71842c5338f760cec8bb35ce737b2ce",
+        "title": "（福島）西郷村小田倉後原でクマ出没　１月２７日朝 - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 37.760833,
+        "lng": 140.474722,
+        "date": "2026-01-27 13:29:00",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeTZidW82NGFuNFdNbUh6QkN5Nk9HVF8xMDd2LUhwb25NWHZiSlNaV185X3hBUlk3Qm5JLWJJZzBrVDZVbTdYc0tXZjZoMllZbXJoUGpORXZ4eDJBYlpsS1M3TjB2THJReFBjcDhRekJLNVc1cTl0UGRCaFlCcHVJdTJLMW96OEdydFBPWUdTQjVlYUNvT1k5UmJNX3PSAaIBQVVfeXFMUFJNVG5EcnFST2VSSWVpZUpxSDhieV93U1gtWkJRRUtTNGNRRkF1MmhvRnk5RDZPMy1PcC1xOTROdGozQnpRQk9fbnBmQ1NDN2t5MEdQZlpydFB2QzlWYmljRThwNDgxa3p1OWxKUzFzOVg2TXFkaHYyRXZkZWVMNWNvdkxmNExkWEQ1bGRobThOT1lWbE5QUGczdkkxVjVIN1JR?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
+        "id": "042f9b0c43b3f5a4f0dd7a01a793f1a8",
+        "title": "（宮城）富谷市東向陽台２丁目でクマ出没　１月２７日夕方 - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 38.268222,
+        "lng": 140.869417,
+        "date": "2026-01-27 13:22:46",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdjMtREx2S21xSjJveHRkNW5kSDltRm11MmJIc0ZLcVJ0R1d4M05Ua0p6SlV1d0pSTjhCMDc3cTFyRWgySzgzV0dWMXQtV0YxZjA3VVFnUHV4REhvNDhpWC1WN3NaMUJaQXp2ZGxkbXNCMGptM2IyRE9xV01yTGlxczhLbHhGNFNNSGJkdm4tRHZqajVJRlVBOVhJeEvSAaIBQVVfeXFMTzdxRkVrd3hkZDJYb2VPYWFVU3F4TWd2cmdBRTk4OXJaWlRuRDVSVk51TXhZMTZybldXSEZkRU5DTGZjajRhNTVTQzgyZVBramZsbUdEUm9uRFBxb0dzejlrNURiSEF5UEJRUjJuR2M0T2ROTDBYVV9MOFhYTGJOYXlhbUlmQko5LVY0TExoSmZGNG9GMG9WdWJ3Vm9PTXpIdXFR?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
+        "id": "ae156e37fd0dd2e67634ac91f465721e",
+        "title": "（青森）八戸市大久保大山でクマ出没　１月２７日夜 - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 40.822222,
+        "lng": 140.7475,
+        "date": "2026-01-27 13:16:00",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN0NUT3RRaXJxREVBT19QSzRSZWlkV2xqOUNKT0kzeHJiUWZoYzdnTThVbDZsM3hTbU5tdzc2d01PMUxnVGg3SUFjVk1vbmNPZWlzN09qQlBMaEVucnFyZzR4TFBJSlVuRC1WeTVpb2FPdDBzM3M3SGcyRVYtUmZlcjRhYmFoYzJ0LUJkbnFtT1lFZWJTSDBsSnJxcFfSAaIBQVVfeXFMTkR1VjYzelB1ZThzcVJMMlJHOFVQYkpXZjRTaW5pTUNQMTJMZWRvS3l4MFYzSnNRS01ONGFOajY2aWd3X010cXJNZDNsa2Z1VWxndW5sdWhqVnJSRldFYmMtY0xBbGkzOUk1QXJiRTRzM29wZjFiZl9qX3h4dmlVM3d2aGZmc3Y4MHNfQkZaajd3VHlPeXV3M0d5S29sa0FURUdB?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
+        "id": "0ae504aab8d74b6b59cb39daef638c52",
+        "title": "安易なクマの駆除に反対『日本熊森協会』（会員約2万2000人）が北海道札幌市で18ヘクタールの森林を取得―ヒグマの出没が相次ぎ人身事故や緊急銃猟が行われた西区エリア付近―野生動物との共存目指し問題提起（北海道ニュースUHB） - Yahoo!ニュース",
+        "location": "新聞報導地點",
+        "lat": 43.066666,
+        "lng": 141.35,
+        "date": "2026-01-27 09:23:00",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rOU1kVTIwMXBKVnRSajdjRjluZWtqSU5Ob25meGY2SjloVU5lLXBMQkVRWUNXR0U2aDExZjhOSHdDUGRwVWp0M0FycG9RYW03TUdsMnM0M2pzZzRGU1UyUWFZaTZtdDItd0V2enN2TXNtOEdSamJuMXZfMGJNLU0?oc=5",
+        "source": "Yahoo!ニュース"
+    },
+    {
+        "id": "aa810897c288b05f467d5c0d047734a2",
+        "title": "【熊出没】1月27日(火) 福島県のクマ目撃情報 《随時更新》 西郷村・喜多方市で：ニュース - fukushima-tv.co.jp",
+        "location": "新聞報導地點",
+        "lat": 37.760833,
+        "lng": 140.474722,
+        "date": "2026-01-27 08:00:00",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1mTGlGQVNIc01KR2RuTTYxN0FyZWFSY2pKQzd0WlpOR25JX2ZmVHFMYl9CTFpwY0N4NENudWVJTXBIQVVCeE5uWUc3dXNmNXZ0TXJ3TmU1cWV6NDN6eEQ2dVZCdXVfSTQ1UnJMQlNBdnlQaG96TTQ5X0V3?oc=5",
+        "source": "fukushima-tv.co.jp"
+    },
+    {
+        "id": "c922ee5e0a1d1214004aad3ebbca9178",
+        "title": "【熊出没】1月27日(火) 福島県のクマ目撃情報 《随時更新》 西郷村・喜多方市で（福島テレビ） - Yahoo!ニュース",
+        "location": "新聞報導地點",
+        "lat": 37.760833,
+        "lng": 140.474722,
+        "date": "2026-01-27 04:23:01",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DRTd1VkdYeVM0emNRcTNpSU9oWGl5Zzhydmh3Yk9pQ3V1LVdveXVqOVZOc0FnZUFyQmRBT194Q29BUXA5NFdTT2k5WGN6c1dUbUYwUlp2NFFuZ3pHcjBPMjBtaUZMUnRCME1ZbmQ3b195UjhFT3VvNmQ4dmplU3M?oc=5",
+        "source": "Yahoo!ニュース"
+    },
+    {
         "id": "9bf88b02f325b1a377279ba3c357b46f",
         "title": "（群馬）前橋市亀泉町でクマ出没　１月２６日朝 - ｄメニューニュース",
         "location": "新聞報導地點",
