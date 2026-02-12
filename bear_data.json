@@ -1,5 +1,95 @@
 [
     {
+        "id": "30a0b21ea06dbd2d440e0f15ac1f49bf",
+        "title": "［熊目撃情報］柏崎市（2月12日） - 新潟日報",
+        "location": "新聞報導地點",
+        "lat": 37.902222,
+        "lng": 139.023611,
+        "date": "2026-02-12 14:45:00",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHMzc2VzZhcEpWUVpYT3AyTzduZTZWZExGc2N2Y1FtWUFLTVdhWFVsdFBfMXo0Qjk5cUY2VEJkVGJud2JNZFVRaS1kTkpTbDZteFZRSXlWMnI5QWZXT3c?oc=5",
+        "source": "新潟日報"
+    },
+    {
+        "id": "886b6d272acc16c289fc09b26b06c420",
+        "title": "（秋田）秋田市手形大沢でクマ出没の痕跡　２月１１日朝 - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 39.716667,
+        "lng": 140.1025,
+        "date": "2026-02-12 14:12:00",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNlN3c1lveDJ2cVFaWVZ3MTJPWklQMmtXQVZtX1FYaGlGQXIzc0FvZXREUkhhRXZuR3BpYV9WaDlVbld6QnlzT2hhU0R3eEtsZGp1VzRYVXVuc3VFaVBkWVFWMFh3NW41VnFQYmNOSFdXZ29TdjUwZmxXbzVWQ3N6SXI1RDlnMVJ2R2lqamh4QVJ4TzlZZFA1UEt0ZlhRVW5kcHfSAaIBQVVfeXFMTTZTd3NZb3gydnFRWllWdzEyT1pJUDJrV0FWbV9RWGhpRkFyM3NBb2V0RFJIYUV2bkdwaWFfVmg5VW5XekJ5c09oYVNEd3hLbGRqdVc0WFV1bnN1RWlQZFlRVjBYdzVuNVZxUGJjTkhXV2dvU3Y1MGZsV281VkNzeklyNUQ5ZzFSdkdpampoeEFSeE85WWRQNVBLdGZYUVVuZHB3?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
+        "id": "3bc4a933e87bd981b5f3de03de18f843",
+        "title": "（宮城）仙台市泉区松森上河原でクマ出没　２月１１日朝 - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 38.268222,
+        "lng": 140.869417,
+        "date": "2026-02-12 13:53:00",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeHdaTXd2eldYQjZsbUJOd2VkSm16NEFXa0pfUXQ0ZmFtTXdzR01qMkNhODNEYUNocmk4WnFGdnY3T0ZwSmd4azU0Q3hYMk5acjR5U2JvRzQ4R20zUFkzemJyeXkzWkd0eFNVMUxmQ0pPVF84WEJYbnFlbEh2aF9DY241cF85d1Y5NmRmY2FxYzJxQUYwWUpnQzZzUzXSAaIBQVVfeXFMT1ZIbjBkbVZKRkxPNUZpbEIzUGplWFJ0alpIZ0ktaFhIamJldEJXSW1DYy1lZ3o3TU41UnhLdFIxX3o3NFNBc2N5UWR4NUtPUFN3YUVmT2ZrVGNpUTh3WUlhUFR5OGZ6MzIyMVR0SVRVRVlQeWo2QVpBU29GdjVYb0R5T3Z3QUhuMnd6TS1DUUFTM3paVTVqc0JqRXhmN2RtMV9n?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
+        "id": "c5e23ce1eb8867e83496d05da5a7460a",
+        "title": "（福島）喜多方市高郷町上郷田中島戊でクマ出没　２月１１日夕方［解決］ - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 37.760833,
+        "lng": 140.474722,
+        "date": "2026-02-12 13:49:00",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVzJxU3ItQUFRMWwybDI1QVpsY1JzUDE5dXowcFUxaC1GXzg3Vmd3YThiam9aZUJDTERHTC1qYWoxT2lLU28wNGtjbGRmUHc0MG9kNW85TmkzSTd2N0VTN3VwUy1fTmdaaFpsYjBFYnJzcFQ4VnJaSVJGOFFSbE1TWmgxdVFqZmU5bWZxOGViZVo0ZUZUUWhRNmZRQTBJaENLdGfSAaIBQVVfeXFMTVcycVNyLUFBUTFsMmwyNUFabGNSc1AxOXV6MHBVMWgtRl84N1Znd2E4YmpvWmVCQ0xER0wtamFqMU9pS1NvMDRrY2xkZlB3NDBvZDVvOU5pM0k3djdFUzd1cFMtX05nWmhabGIwRWJyc3BUOFZyWklSRjhRUmxNU1poMXVRamZlOW1mcThlYmVaNGVGVFFoUTZmUUEwSWhDS3Rn?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
+        "id": "5980a0a4e2f63611ef3af0157e6e9743",
+        "title": "真冬にまたクマの居座り…福島・喜多方市の民家に15時間 専門家はどう見る？ 冬眠明けの春先が危険（福島テレビ） - Yahoo!ニュース",
+        "location": "新聞報導地點",
+        "lat": 37.760833,
+        "lng": 140.474722,
+        "date": "2026-02-12 10:23:02",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrTTJvdXEzOXpCOVNTYWRWVUNrUUcxamdNZ2htLXFzVHVFZXVWX3J5blcyM0c1OFhoU19SejlFZ1M1aTRwQUhtVXg4RmdJOXdRUWZRRnVsb2RBcTZ3UFB6Rk41c3VtY1FzaE1EZ0tZMUppWFIxT1c3U011c21EY0E?oc=5",
+        "source": "Yahoo!ニュース"
+    },
+    {
+        "id": "6295b7f2e6d12521c2e18bd1ff422b2b",
+        "title": "真冬にまたクマの居座り…福島・喜多方市の民家に15時間　専門家はどう見る？　冬眠明けの春先が危険 - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 37.760833,
+        "lng": 140.474722,
+        "date": "2026-02-12 10:22:00",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYzFUcUhIWU9XeW9TNzNyRUVOT1JsUG9CZWprVVdyTHl2cjZTdHpGcnEzMmRlUVh0bERhUEpweC1SbFdUdUxtYlVBNWV2X0xuU1NnMkNfdEp3emp2eXY3S1hoN2ItRzloTUR2Q2lOVXRqclU4NXV6TlRrYUJlU2s2ZVNkRDNNY3fSAYcBQVVfeXFMTWMxVHFISFlPV3lvUzczckVFTk9SbFBvQmVqa1VXckx5dnI2U3R6RnJxMzJkZVFYdGxEYVBKcHgtUmxXVHVMbWJVQTVldl9MblNTZzJDX3RKd3pqdnl2N0tYaDdiLUc5aE1EdkNpTlV0anJVODV1ek5Ua2FCZVNrNmVTZEQzTWN3?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
+        "id": "9ffaad9373ed10f2b1ad1ca0fed4ed30",
+        "title": "「残酷な言い方をするが…除去しておいたほうが…」真冬でも行動続ける熊…親とはぐれやせ細った子熊か 福島 - 日テレNEWS NNN",
+        "location": "新聞報導地點",
+        "lat": 37.760833,
+        "lng": 140.474722,
+        "date": "2026-02-12 09:32:00",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZlVjTng3cTkyVENUYkEtVW9yMFZmMVBWMXVNVndkRm5ycV9kZncyb0NjdHBhNjdMV0YxWlM5b1VuQkFpSF9sYWp0VDdWS1JQeUpUNm5HVkxPcUpQTFhzaTRQMUcwUVN1T3BzVnZ4SFFLYUJRekM2ekVGNHkxSHU4cy1yZXd2SGc?oc=5",
+        "source": "日テレNEWS NNN"
+    },
+    {
+        "id": "4372cf647c392d5fafc7d1ec8ddbc24b",
+        "title": "福島・喜多方市の住宅にクマが居座り 台所のワナにかかり捕獲 体長約50センチの熊 15時間ぶりに搬出（福島テレビ） - Yahoo!ニュース",
+        "location": "新聞報導地點",
+        "lat": 37.760833,
+        "lng": 140.474722,
+        "date": "2026-02-12 02:55:02",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aUWVhcFY0SEVoOUgwSk9xeG9sVXd5V0piWEZjSUlPc0VpV1dnR0M3Vm5Ya2J0WXdmdFRmWmh0dlVKdkluTzkyRVZfZW1GRmlJRktaSEFIWnRGZS1nWkc2YWNrN2ZaaDZtTTF5eXVGQnlQcXc3Z0VOZ3p4ZVkyd2s?oc=5",
+        "source": "Yahoo!ニュース"
+    },
+    {
+        "id": "1048be0ad241943ea3bf5000669dfa78",
+        "title": "「おっかないよな。熊は強いから」帰宅したら台所に熊…民家に居座っていた熊を捕獲　福島 - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 37.760833,
+        "lng": 140.474722,
+        "date": "2026-02-12 02:06:00",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTHl2QnlGRkEtTjFxSEFzXzlIcmgyT0ZCWVIwS1duTVlwcGxaVXJURGJMZ1hRWFV0bkEtR1BHS3pFdnFSVlRIdHl5ejBoTzVRbVcxaFhlakFUcHQ1MVRNNHlZTEZleDN2bGRsQ3NVRDNYSkNHOTYxbzlFY0VTNzFxSTNhcVBNakVjeFdpcTZR0gGAAUFVX3lxTE1URDdfYkx1RFlwZlAyZUlpekhxWnVnTVRuQ0huTjgyYWEyUVZhQnJBajhiSGJHcEpCVDJVeTVYd0VUVUZYWkxEbGxXSFFndzNycVNzU3hOcjhUbnVJTTQtdWY5OGdBTGRlU3RibEJSVEpxcVE3c05TdjJFaXdxNGZ4?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
         "id": "ce5d9139cdb3a358a4230a19a4f1498f",
         "title": "（青森）八戸市田面木酒美平でクマ出没　２月１１日夕方 - ｄメニューニュース",
         "location": "新聞報導地點",
