@@ -1,5 +1,55 @@
 [
     {
+        "id": "805be1abe63ecf5e3de9575aee3443c6",
+        "title": "クマ対策の最前線に立つ野生動物のプロ 過疎化する地域を守る [群馬県] - 朝日新聞",
+        "location": "新聞報導地點",
+        "lat": 36.390556,
+        "lng": 139.060278,
+        "date": "2026-02-14 22:00:00",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10SmJZVWIzTzRRVFNqcHpweDF4YTJkX3hYeTdnQjdhQklhOWVYcnpLWnBaRkx5RGRPRkpOZG9MMk11cUJxNzROblNhakF3M3piMTVrdEVBbkJ6clNPVnp5WFdEV2dQY3c?oc=5",
+        "source": "朝日新聞"
+    },
+    {
+        "id": "e30d0ef851e63134901362a6d0311dab",
+        "title": "熊の居ぬ間に…東北各地で生態学ぶ研修会 岩手、福島 - 河北新報オンライン",
+        "location": "新聞報導地點",
+        "lat": 39.703611,
+        "lng": 141.156389,
+        "date": "2026-02-14 21:00:00",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GUVBOWWhSYmZGY2VZUDJlUjgxcVV4ZzRqYTU3WHJZckZoQkhtSTZBdjVzaGwzWlhSbVNZY0V6THpCb19YXzFTZlFfS2lUc2NtTzM2QUpudDVUaWVjY2FJTg?oc=5",
+        "source": "河北新報オンライン"
+    },
+    {
+        "id": "b2fa39016da35e5e4e1abdca9275394e",
+        "title": "熊出没増加はブナ原因？ 宮城＜北から南から＞ - 河北新報オンライン",
+        "location": "新聞報導地點",
+        "lat": 38.268222,
+        "lng": 140.869417,
+        "date": "2026-02-14 20:00:00",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMa0dFbm12amFtUGpYLVVTTERMbF8zQUNJcDB4N182cVQzWE1fajZtN25SN2VZR3h1cHJVS1FUb01GYmdkN2E4RFFLd0IwcHdYaF9tN2hiWFppemFWdlZDMw?oc=5",
+        "source": "河北新報オンライン"
+    },
+    {
+        "id": "eedd8aa54581aebe98d339c68ac36441",
+        "title": "（青森）田子町山口道前でクマ出没　２月１４日午後 - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 40.822222,
+        "lng": 140.7475,
+        "date": "2026-02-14 13:40:00",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTlkyMjd6OFhrbHpMUnJjVUdmS0hBSGRtR19jTUctdmtjczRCLTVLV2FVR2ZXWU45NG5xZDIxdXE5Ym9aYzZ0NkhQZWdRZU82Mkk3VlBmcWJQSF82b0RzbnUtdUMzRW1SOXBqbnZVNjhONTVDS3FwUExGeWVBS0VjekdNMUVrano4dktEdVZXWmJLekhKOURhcmFfXzLSAaIBQVVfeXFMTkNpeUJGcG5VLTVMcUhOZE1NY0hhSzFvVnN0UkEtS2ttLU1NWFF3dTF1VVR4RzRKNlFzTm1QbTN3VkpXSzRJdjFaUXA3emd0UzBsLTlVemQ3RHdrUlJDc2NzeGFoaHZHbzVHbWp4aE5XMEQzN2YwcnhMNG1mT2NGNE96NVo4SWx6LUpzU2R5MWQ0RHVtU3I4RHppallWd2pXWjln?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
+        "id": "7e148305423ecc3e9c63c0c06ca58769",
+        "title": "（福井）勝山市鹿谷町志田でクマ出没の痕跡　２月１４日午前 - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 36.064722,
+        "lng": 136.219444,
+        "date": "2026-02-14 13:33:00",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQV0ZlZEE2ZWJtTFh3NGZ6X3poLUhLcFFyTFRUVGNrN2YyWVc0Q0JHUy1mUGdSdDkyVHlxNkNKb3IwUjNXVHdkSlpmN3U2cnVwMXAxckZIeUpQdnV3SHVTNXlsZFRXLVI4MkRXdzg1RjBWSFhpTUo1VkR0RXBUamhMcHVQdExYSmlGWEdoSTJHZGw1WlFFXzNRcUhsMFPSAaIBQVVfeXFMT0RZZ0pzSllwUFQyZEJUbmZ5anJNS3RVb2RaaEl0NHlOYmsydnhZV01HNXlkNDZSRFF5WWpmd3BONEl3cVNmeXRmbzVfMjhNSjFNU3BjMmN4S3l2a3FYTkRUY3JWQjB4eWJlYlpIWUZEbXY2a3FsN3ZuNW1QamQ0UlhrUGJFU25NSEI4c3ljemUwZ09FQkFQX3hXajVQejIxWWZ3?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
         "id": "e65258be2c68ff728bdf8878f84948d3",
         "title": "（宮城）石巻市南境水戸でクマ出没の可能性　２月１３日未明 - ｄメニューニュース",
         "location": "新聞報導地點",
