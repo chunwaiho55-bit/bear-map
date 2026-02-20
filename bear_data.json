@@ -1,5 +1,85 @@
 [
     {
+        "id": "a9950e413600efaef720a35343b1bcfe",
+        "title": "宮城の熊目撃情報（２０日午後１０時３０分現在） - 河北新報オンライン",
+        "location": "新聞報導地點",
+        "lat": 38.268222,
+        "lng": 140.869417,
+        "date": "2026-02-20 13:30:33",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzNzZ0MGdtYzlrajFPazVzU1czY21qME4zdHZydS0zcjVfai1uM1lrbHNiQlRxYS1KQWNJcXVGd2N5Mk1rMDJzSEhzbFB3RHFRSzNyN2ZVR2kwVUsxV19zUg?oc=5",
+        "source": "河北新報オンライン"
+    },
+    {
+        "id": "c94cbe794c3291776af31f57f12e388b",
+        "title": "［熊目撃情報］阿賀町（2月20日） - 新潟日報",
+        "location": "新聞報導地點",
+        "lat": 37.902222,
+        "lng": 139.023611,
+        "date": "2026-02-20 12:35:00",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBpajFCcko4NkdLZXJRN2dYa1BwcHNXMFNmcnNqZWlMeU9MVGxrWkpkdmZWZFBTelBxUjJuVmxwSVpQODA5UVhrLXVxb3pWQm9xZ2pqbjNmNFBQOHZwREE?oc=5",
+        "source": "新潟日報"
+    },
+    {
+        "id": "2b8e3ec81238e3f6ecad8a143aebf622",
+        "title": "守れ生活圏！青森県が「ガバメントハンター」導入へ クマ対策予算1億6000万円超で対抗（青森放送） - Yahoo!ニュース",
+        "location": "新聞報導地點",
+        "lat": 40.822222,
+        "lng": 140.7475,
+        "date": "2026-02-20 10:09:01",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlZFNJcmU5WDYwUnVwR0IwbENrRnFuY1U1SnQ0LW42R2Fta1ZJZzRuUmhvaTdtTEZ1SnR0TzZlX3NQb2hqd3hwbkhVR0dJT1Q2d25UcGU3eTVFMGhHRDhiTGtwc1JHYmVUYktNcjdoSjZ4SGFFeTdqZUYyNzY0Um8?oc=5",
+        "source": "Yahoo!ニュース"
+    },
+    {
+        "id": "a86fb9839f279475377b0d8bbca54412",
+        "title": "今年も相次ぐクマの出没...酒田市で緊急銃猟の講習会 安全確保の方法や訓練のポイントなどを確認（山形） - TBS NEWS DIG",
+        "location": "新聞報導地點",
+        "lat": 38.255556,
+        "lng": 140.339722,
+        "date": "2026-02-20 09:34:00",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA1YWJSM0NKdlJfaE5ycnpPaUdrVXhwcE4xTHlqQW01bDN4NThiUWZVeGNWMTVFenhrck5XUGFsMFhpMDJid0JUMTVKbjFzSmtlVkVDVEdLZXYtbml3Tm5LQTRYTQ?oc=5",
+        "source": "TBS NEWS DIG"
+    },
+    {
+        "id": "18c8485d38e6421b61980b7631e107e1",
+        "title": "（岩手）宮古市津軽石第１５地割でクマ出没　２月２０日 - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 39.703611,
+        "lng": 141.156389,
+        "date": "2026-02-20 04:24:00",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWVFFZnJBeGJ3V0Z3M2xsWlluY05KYjh6ZTRUNTRVeV9IRG94QWpsTk92UFdXMDBIdmp0LXVhdmZoLXNHRFRmclFDcGJ3WmF1ZExFLUtqQlJnOER6RERrbjF2c2t4SlRGaWhOQUc4ZjByMXN4amdJUG1oYUU5WW5ySWNMZHZBbWh0dTcyMTNNYWx3X1ZJMUxyel9oUi1WWG40OXfSAaIBQVVfeXFMTVlRRWZyQXhid1dGdzNsbFpZbmNOSmI4emU0VDU0VXlfSERveEFqbE5PdlBXVzAwSHZqdC11YXZmaC1zR0RUZnJRQ3Bid1phdWRMRS1LakJSZzhEekREa24xdnNreEpURmloTkFHOGYwcjFzeGpnSVBtaGFFOVluckljTGR2QW1odHU3MjEzTWFsd19WSTFMcnpfaFItVlhuNDl3?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
+        "id": "02c0837176e19ab5667eb7c4dae65445",
+        "title": "クマなど捕獲報酬を最大3000円引き上げへ 福島・会津若松市の当初予算案 第2子以降の保育料無償化も（福島テレビ） - Yahoo!ニュース",
+        "location": "新聞報導地點",
+        "lat": 37.760833,
+        "lng": 140.474722,
+        "date": "2026-02-20 03:01:01",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Da1V1ODY4ODhjSzUyVEVRYUtRY2JucGpxbWVGSGRuUmlCa0hVWU5CV0JDVWxaanNDb3EzeFZJUWg1N3FuWUFfc2FlNVFqMVRqR1lIRlBQMFplenZ2T2VDdHJyNDBKYVhHb0dFU0RxcFEzeER1UDJaaVEwVUpaUXM?oc=5",
+        "source": "Yahoo!ニュース"
+    },
+    {
+        "id": "df253766c796c5bef842ce43d4b9164a",
+        "title": "クマなど捕獲報酬を最大3000円引き上げへ　福島・会津若松市の当初予算案　第2子以降の保育料無償化も - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 37.760833,
+        "lng": 140.474722,
+        "date": "2026-02-20 03:00:00",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSTJfYVBTcHA2dmQtbXhVMlNmakRQandlZEhXT29EQkF0QnNBZ0wzamxocmlBaGYzX055VVFyVzhrUWdHMGV6QjVNYzFxVlhhVG5nU20zekk3aXVGZ2t5RW1pWWVOYWlfZG1IUFZ4a0xwNDlrbEJwMmhwUXZSemNhaUFpSjdTREXSAYcBQVVfeXFMTUkyX2FQU3BwNnZkLW14VTJTZmpEUGp3ZWRIV09vREJBdEJzQWdMM2psaHJpQWhmM19OeVVRclc4a1FnRzBlekI1TWMxcVZYYVRuZ1NtM3pJN2l1RmdreUVtaVllTmFpX2RtSFBWeGtMcDQ5a2xCcDJocFF2UnpjYWlBaUo3U0RF?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
+        "id": "870e275a5ee6d7f1666ea5a12c7ca285",
+        "title": "群馬の山本一太知事、わな猟免許を取得　クマ対策の機運向上へ - ｄメニューニュース",
+        "location": "新聞報導地點",
+        "lat": 36.390556,
+        "lng": 139.060278,
+        "date": "2026-02-20 02:15:00",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdTdJTC1VRUc4Zkx4WTJtMG5ZdDQ3RVBFOGpzMDZad2l3dWw2eklMb3MtcHRtNWpzeFE0dlkyeHlBRi1aZ2FtdXdsZEhKeUY4ODdGYmJmc0RVbnB0U1dGeG9uQlM2SjNrdkQ4X2ZmTTE5dEVzR1dHeFQwM0ZoUlZ6S2UxbHNVaFJXTFpTUURfSTdJZ1JfTGQxRNIBngFBVV95cUxNbFBkVUpOSF9pdDViQjlzaXBqaWNWdHlKa3JqSkdzMmtSSmUzekdvTExINXJlQWhtRksyU0o2YVJOWXFzd2tFUi15d3ZXakdkaE9XQjNYUTZjeDZ4Q01ISmNodXc2S0I1OE1sTVZ2Z2pPck1kTFdoTUV3SXJpa0taUE81T0JoNFdRa0ZudmZBX3NDTllyaThydlJmbVlYZw?oc=5",
+        "source": "ｄメニューニュース"
+    },
+    {
         "id": "c187c3ee8cebd8ac3ae731ceb55a0566",
         "title": "宮城の熊目撃情報（19日午後10時現在） - 河北新報オンライン",
         "location": "新聞報導地點",
